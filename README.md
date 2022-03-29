@@ -46,5 +46,5 @@
 ## 레벨2
 
 ## 레벨3
-* [입국심사]()
-* [단어변환]()
+* [입국심사](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py)
+* [단어변환](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv3/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py)
