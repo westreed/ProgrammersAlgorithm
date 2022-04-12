@@ -61,7 +61,7 @@
 * [x만큼 간격이 있는 n개의 숫자](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv1/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.py)
 * [직사각형 별찍기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.py)
 
-## 레벨2
+## [레벨2](https://github.com/westreed/ProgrammersAlgorithm/tree/main/lv2)
 * [게임 맵 최단거리](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py)
 * [거리두기 확인하기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py)
 * [문자열 압축](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.py)
@@ -70,10 +70,10 @@
 * [124 나라의 숫자](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.py)
 * [기능개발](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)
 
-## 레벨3
+## [레벨3](https://github.com/westreed/ProgrammersAlgorithm/tree/main/lv3)
 * [입국심사](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py)
 * [단어변환](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv3/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py)
 * [등굣길](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv3/%EB%93%B1%EA%B5%A3%EA%B8%B8.py)
 * [불량 사용자](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv3/%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.py)
 
-## 레벨4
+## [레벨4](https://github.com/westreed/ProgrammersAlgorithm/tree/main/lv4)
