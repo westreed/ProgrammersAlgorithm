@@ -64,6 +64,11 @@
 ## 레벨2
 * [게임 맵 최단거리](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py)
 * [거리두기 확인하기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py)
+* [문자열 압축]()
+* [오픈채팅방]()
+* [멀쩡한 사각형]()
+* [124 나라의 숫자]()
+* [기능개발]()
 
 ## 레벨3
 * [입국심사](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py)
