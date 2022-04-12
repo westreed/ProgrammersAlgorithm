@@ -2,7 +2,7 @@
 # https://programmers.co.kr/learn/courses/30/lessons/43163
 
 def similarity(word, target):
-    diff = 0 
+    diff = 0
     for i in range(len(word)):
         if word[i] != target[i]:
             diff += 1

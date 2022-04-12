@@ -41,10 +41,29 @@
 * [문자열 다루기 기본](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.py)
 * [서울에서 김서방 찾기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.py)
 * [소수 찾기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv1/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)
-
+* [수박수박수박수박수박수?]()
+* [문자열을 정수로 바꾸기]()
+* [시저 암호]()
+* [약수의 합]()
+* [이상한 문자 만들기]()
+* [자릿수 더하기]()
+* [자연수 뒤집어 배열로 만들기]()
+* [정수 내림차순으로 배치하기]()
+* [정수 제곱근 판별]()
+* [제일 작은 수 제거하기]()
+* [짝수와 홀수]()
+* [최대공약수와 최솝소공배수]()
+* [콜라츠 추측]()
+* [평균 구하기]()
+* [하샤드 수]()
+* [핸드폰 번호 가리기]()
+* [행렬의 덧셈]()
+* [x만큼 간격이 있는 n개의 숫자]()
+* [직사각형 별찍기]()
 
 ## 레벨2
 * [게임 맵 최단거리](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py)
+* [거리두기 확인하기]()
 
 ## 레벨3
 * [입국심사](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py)

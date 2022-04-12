@@ -2,12 +2,12 @@
 # https://programmers.co.kr/learn/courses/30/lessons/42576
 
 def solution(participant, completion):
-    part_temp = set(participant) #set은 집합형으로 중복을 제거함
-    comp_temp = set(completion)
-    answer = list(part_temp - comp_temp) #집합의 차를 이용 후 리스트로 변환
-    if answer: #answer에 값이 있는 경우
+    start  = set(tuple(participant))
+    finish = set(tuple(completion))
+    answer = list(start-finish)
+    if answer:
         return answer[0]
-    else: #answer에 값이 없는 경우 (선수 중복)
+    else:
         for lap in completion:
             a = completion.count(lap)
             b = participant.count(lap)
