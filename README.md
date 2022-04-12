@@ -64,11 +64,11 @@
 ## 레벨2
 * [게임 맵 최단거리](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py)
 * [거리두기 확인하기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py)
-* [문자열 압축]()
-* [오픈채팅방]()
-* [멀쩡한 사각형]()
-* [124 나라의 숫자]()
-* [기능개발]()
+* [문자열 압축](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.py)
+* [오픈채팅방](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py)
+* [멀쩡한 사각형](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.py)
+* [124 나라의 숫자](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.py)
+* [기능개발](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)
 
 ## 레벨3
 * [입국심사](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py)
