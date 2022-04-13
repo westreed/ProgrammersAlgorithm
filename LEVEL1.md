@@ -59,5 +59,5 @@
 |54|2016년|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv1/2016%EB%85%84.py)|[바로가기]( https://programmers.co.kr/learn/courses/30/lessons/12901)|
 
 
-**Update Date 2022/04/13 21:35:05 KST**
+**Update Date 2022/04/13 21:37:59 KST**
 
