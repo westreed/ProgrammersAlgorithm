@@ -17,6 +17,7 @@ for idx in range(0,4):
 
     path = f'./lv{level}'
     filelists = os.listdir(path)
+    print(filelists)
 
     for index,file in enumerate(filelists):
         unresolved = True if file[-4:] == 'X.py' else False
