@@ -69,6 +69,11 @@
 * [멀쩡한 사각형](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.py)
 * [124 나라의 숫자](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.py)
 * [기능개발](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)
+* [더 맵게]()
+* [타겟 넘버]()
+* [짝지어 제거하기]()
+* [행렬 테두리 회전하기]()
+* [메뉴 리뉴얼]()
 
 ## [레벨3](https://github.com/westreed/ProgrammersAlgorithm/tree/main/lv3)
 * [입국심사](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py)
