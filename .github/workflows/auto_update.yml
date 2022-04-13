@@ -29,8 +29,9 @@ jobs:
         python scripts/create_LEVEL.py
     - name: Config Github
       run: |
+        git add .
+        git diff
         git config --local user.email "westreed@naver.com"
         git config --local user.name "JangSeHun"
-        git add .
         git commit -m "update README.md"
         git push
