@@ -22,6 +22,7 @@ result = [
     -2
 ]
 
+
 for q in [0,1]:
     qid = solution(a[q], b[q])
     if qid == result[q]:
