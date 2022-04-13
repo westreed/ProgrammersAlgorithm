@@ -1,4 +1,6 @@
 import os
+import datetime
+import pytz
 from urllib import parse
 
 tableHeader = ["순번","문제 이름","문제 풀이","풀이 링크", "문제 링크"]
@@ -43,3 +45,8 @@ for idx in range(0,4):
         
         # table
         f.writelines(tables)
+        f.write('\n\n')
+
+        # update
+        timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
+        f.write(f"**Update Date {timeformat.strftime('%Y/%m/%d %H:%M:%S %Z')}**\n\n")

@@ -1,8 +1,10 @@
 import os
+import datetime
+import pytz
 
 header = list()
 tables = list()
-with open('./md/header.md', 'r', encoding = "UTF8") as f:
+with open('./md/header.md', 'r', encoding = "UTF-8") as f:
     header = f.readlines()
     f.close()
 
@@ -28,9 +30,14 @@ tables = [ f"{line}\n" for line in tables ]
 
 # README.md
 
-with open('./README.md', 'w', encoding = "UTF8") as f:
+with open('./README.md', 'w', encoding = "UTF-8") as f:
     f.writelines(header)
     f.write('\n')
     
     # table
     f.writelines(tables)
+    f.write('\n\n')
+
+    # update
+    timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
+    f.write(f"**Update Date {timeformat.strftime('%Y/%m/%d %H:%M:%S %Z')}**\n\n")
