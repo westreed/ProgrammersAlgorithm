@@ -9,9 +9,6 @@ on:
   pull_request:
     branches: [ main ]
 
-permissions:
-  contents: read
-
 jobs:
   build:
 
@@ -26,7 +23,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-    - name: Run make_table.py
+    - name: Run python
       run: |
         python scripts/create_README.py
         python scripts/create_LEVEL.py
