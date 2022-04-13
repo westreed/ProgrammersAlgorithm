@@ -57,3 +57,7 @@
 |52|약수의 합|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv1/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.py)|[바로가기]( https://programmers.co.kr/learn/courses/30/lessons/12928)|
 |53|콜라츠 추측|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv1/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.py)|[바로가기]( https://programmers.co.kr/learn/courses/30/lessons/12943)|
 |54|2016년|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv1/2016%EB%85%84.py)|[바로가기]( https://programmers.co.kr/learn/courses/30/lessons/12901)|
+
+
+**Update Date 2022/04/13 21:35:05 KST**
+
