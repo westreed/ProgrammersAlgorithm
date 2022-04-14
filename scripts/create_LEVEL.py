@@ -7,7 +7,7 @@ tableHeader = ["순번","문제 유형","문제 이름","문제 풀이","풀이 
 unresolvedText = ["풀이완료", "**풀이안됨**"]
 
 # 레벨 만큼 md파일 생성
-for idx in range(0,5):
+for idx in range(0,4):
     header = list()
     tables = list()
 

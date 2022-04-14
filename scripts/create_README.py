@@ -13,7 +13,7 @@ tables.append(f"-----------------------------")
 
 tables.append(f"| {' | '.join(tableHeader)} |")
 tables.append(f"| {':--: |' * len(tableHeader)}")
-for idx in range(0, 5):
+for idx in range(0, 4):
     path = f'./lv{idx+1}'
     filelists = os.listdir(path)
     
