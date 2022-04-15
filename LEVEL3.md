@@ -10,5 +10,5 @@
 |05|2021 카카오 채용연계형 인턴십|표 편집 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv3/%ED%91%9C%20%ED%8E%B8%EC%A7%91%20X.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/81303)|
 
 
-**Update Date 2022/04/14 21:39:47 KST**
+**Update Date 2022/04/15 17:08:14 KST**
 
