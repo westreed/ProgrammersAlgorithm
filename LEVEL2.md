@@ -20,7 +20,7 @@
 |15|월간 코드 챌린지 시즌3|빛의 경로 사이클 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EB%B9%9B%EC%9D%98%20%EA%B2%BD%EB%A1%9C%20%EC%82%AC%EC%9D%B4%ED%81%B4%20X.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/86052)|
 |16|완전탐색|소수 찾기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42839)|
 |17|2020 카카오 인턴십|수식 최대화|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/67257)|
-|18|2021 KAKAO BLIND RECRUITMENT|순위 검색 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89%20X.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/72412)|
+|18|2021 KAKAO BLIND RECRUITMENT|순위 검색|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/72412)|
 |19|2017 팁스타운|예상 대진표|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/12985)|
 |20|2019 KAKAO BLIND RECRUITMENT|오픈채팅방|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42888)|
 |21|해시|위장|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%EC%9C%84%EC%9E%A5.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42578)|
@@ -36,5 +36,5 @@
 |31|2019 KAKAO BLIND RECRUITMENT|후보키|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv2/%ED%9B%84%EB%B3%B4%ED%82%A4.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42890)|
 
 
-**Update Date 2022/04/15 17:08:14 KST**
+**Update Date 2022/04/15 18:35:39 KST**
 
