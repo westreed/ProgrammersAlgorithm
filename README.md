@@ -9,12 +9,12 @@
 ## 프로그래머스
 | 난이도 | 문제 링크 | 해결한 문제 수 | 전체 문제 수 |
 | :--: |:--: |:--: |:--: |
-|레벨1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL1.md)|55|55|
-|레벨2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL2.md)|38|41|
-|레벨3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL3.md)|05|08|
-|레벨4|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL4.md)|00|02|
+-----------------------------
+## 삼성 SW 아카데미
+| 난이도 | 문제 링크 | 해결한 문제 수 | 전체 문제 수 |
+| :--: |:--: |:--: |:--: |
 -----------------------------
 
 
-**Update Date 2022/04/18 22:41:01 KST**
+**Update Date 2022/04/18 22:44:26 KST**
 
