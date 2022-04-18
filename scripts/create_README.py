@@ -24,7 +24,9 @@ for idx in range(0, 4):
         if file[-4:] == 'X.py':
             unresolved += 1
     
-    line = f'|레벨{idx+1}|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/LEVEL{idx+1}.md)|{problems-unresolved:02}|{problems:02}|'
+    links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL{idx+1}.md'
+    
+    line = f'|레벨{idx+1}|[바로가기]({links})|{problems-unresolved:02}|{problems:02}|'
     tables.append(line)
 
 tables.append(f"-----------------------------")
