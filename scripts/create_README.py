@@ -15,15 +15,8 @@ tables.append(f"## 프로그래머스")
 tables.append(f"| {' | '.join(tableHeader)} |")
 tables.append(f"| {':--: |' * len(tableHeader)}")
 
-folderPath = f'./Programmers'
-folderlists = os.listdir(folderPath)
-folderNum = 0
-for folder in folderlists:
-    if os.path.isdir(folderPath+'\\'+folder)==True:
-        folderNum += 1
-
-for idx in range(folderNum):
-    path = f'{folderPath}/lv{idx+1}'
+for idx in range(4):
+    path = f'./Programmers/lv{idx+1}'
     filelists = os.listdir(path)
     
     problems   = len(filelists)
@@ -43,15 +36,8 @@ tables.append(f"## 삼성 SW 아카데미")
 tables.append(f"| {' | '.join(tableHeader)} |")
 tables.append(f"| {':--: |' * len(tableHeader)}")
 
-folderPath = f'./SAMSUNG_SW_Expert_Academy'
-folderlists = os.listdir(folderPath)
-folderNum = 0
-for folder in folderlists:
-    if os.path.isdir(folderPath+'\\'+folder)==True:
-        folderNum += 1
-
-for idx in range(folderNum):
-    path = f'{folderPath}/lv{idx+1}'
+for idx in range(1):
+    path = f'./SAMSUNG_SW_Expert_Academy/lv{idx+1}'
     filelists = os.listdir(path)
     
     problems   = len(filelists)

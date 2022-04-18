@@ -10,14 +10,9 @@ tableHeader = ["순번","문제 유형","문제 이름","문제 풀이","풀이 
 unresolvedText = ["풀이완료", "**풀이안됨**"]
 
 folderPath = f'./Programmers'
-folderlists = os.listdir(folderPath)
-folderNum = 0
-for folder in folderlists:
-    if os.path.isdir(folderPath+'\\'+folder)==True:
-        folderNum += 1
 
 # 레벨 만큼 md파일 생성
-for idx in range(folderNum):
+for idx in range(4):
     header = list()
     tables = list()
 
@@ -70,14 +65,9 @@ tableHeader = ["순번","문제 유형","문제 이름","문제 풀이","풀이 
 unresolvedText = ["풀이완료", "**풀이안됨**"]
 
 folderPath = f'./SAMSUNG_SW_Expert_Academy'
-folderlists = os.listdir(folderPath)
-folderNum = 0
-for folder in folderlists:
-    if os.path.isdir(folderPath+'\\'+folder)==True:
-        folderNum += 1
 
 # 레벨 만큼 md파일 생성
-for idx in range(folderNum):
+for idx in range(1):
     header = list()
     tables = list()
 
