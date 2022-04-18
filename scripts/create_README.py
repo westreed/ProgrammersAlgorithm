@@ -14,8 +14,16 @@ tables.append(f"## 프로그래머스")
 
 tables.append(f"| {' | '.join(tableHeader)} |")
 tables.append(f"| {':--: |' * len(tableHeader)}")
-for idx in range(0, 4):
-    path = f'./Programmers/lv{idx+1}'
+
+folderPath = f'./Programmers'
+folderlists = os.listdir(folderPath)
+folderNum = 0
+for folder in folderlists:
+    if os.path.isdir(folderPath+'\\'+folder)==True:
+        folderNum += 1
+
+for idx in range(folderNum):
+    path = f'{folderPath}/lv{idx+1}'
     filelists = os.listdir(path)
     
     problems   = len(filelists)
@@ -25,6 +33,34 @@ for idx in range(0, 4):
             unresolved += 1
     
     links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL{idx+1}.md'
+    
+    line = f'|레벨{idx+1}|[바로가기]({links})|{problems-unresolved:02}|{problems:02}|'
+    tables.append(line)
+
+tables.append(f"-----------------------------")
+tables.append(f"## 삼성 SW 아카데미")
+
+tables.append(f"| {' | '.join(tableHeader)} |")
+tables.append(f"| {':--: |' * len(tableHeader)}")
+
+folderPath = f'./SAMSUNG_SW_Expert_Academy'
+folderlists = os.listdir(folderPath)
+folderNum = 0
+for folder in folderlists:
+    if os.path.isdir(folderPath+'\\'+folder)==True:
+        folderNum += 1
+
+for idx in range(folderNum):
+    path = f'{folderPath}/lv{idx+1}'
+    filelists = os.listdir(path)
+    
+    problems   = len(filelists)
+    unresolved = 0
+    for file in filelists:
+        if file[-4:] == 'X.py':
+            unresolved += 1
+    
+    links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL{idx+1}.md'
     
     line = f'|레벨{idx+1}|[바로가기]({links})|{problems-unresolved:02}|{problems:02}|'
     tables.append(line)
