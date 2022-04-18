@@ -1,4 +1,5 @@
-# LEVEL 4
+# 프로그래머스
+## LEVEL 4
 
 | 순번 | 문제 유형 | 문제 이름 | 문제 풀이 | 풀이 링크 | 문제 링크 |
 | :--: |:--: |:--: |:--: |:--: |:--: |
@@ -6,5 +7,5 @@
 |01|이분탐색|징검다리 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv4/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20X.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/43236)|
 
 
-**Update Date 2022/04/18 20:52:09 KST**
+**Update Date 2022/04/18 22:38:39 KST**
 

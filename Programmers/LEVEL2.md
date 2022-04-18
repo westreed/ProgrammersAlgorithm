@@ -1,4 +1,5 @@
-# LEVEL 2
+# 프로그래머스
+## LEVEL 2
 
 | 순번 | 문제 유형 | 문제 이름 | 문제 풀이 | 풀이 링크 | 문제 링크 |
 | :--: |:--: |:--: |:--: |:--: |:--: |
@@ -45,5 +46,5 @@
 |40|2019 KAKAO BLIND RECRUITMENT|후보키|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%9B%84%EB%B3%B4%ED%82%A4.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42890)|
 
 
-**Update Date 2022/04/18 20:52:09 KST**
+**Update Date 2022/04/18 22:38:39 KST**
 
