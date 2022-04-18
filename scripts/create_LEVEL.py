@@ -17,7 +17,7 @@ for idx in range(0,4):
     tables.append(f"| {' | '.join(tableHeader)} |")
     tables.append(f"| {':--: |' * len(tableHeader)}")
 
-    path = f'./lv{level}'
+    path = f'./Programmers/lv{level}'
     filelists = os.listdir(path)
     filelists.sort()
     print(filelists)
@@ -28,13 +28,13 @@ for idx in range(0,4):
         filelinks = parse.quote(file)
         problemType = ''
         programmerslink = ''
-        with open(f'./lv{level}/{file}', 'r', encoding='UTF-8') as f:
+        with open(f'{path}/{file}', 'r', encoding='UTF-8') as f:
             textline = f.readline()
             problemType = textline[1:].strip()
             textline = f.readline()
             programmerslink = textline[1:-1].strip()
 
-        links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/lv{level}/{filelinks}'
+        links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv{level}/{filelinks}'
 
         line = f'|{index:02}|{problemType}|{name}|{unresolvedText[unresolved]}|[바로가기]({links})|[바로가기]({programmerslink})|'
         tables.append(line)
@@ -42,7 +42,7 @@ for idx in range(0,4):
     tables = [ f"{line}\n" for line in tables ]
 
     # create MD
-    with open(f'./LEVEL{level}.md', 'w', encoding = "UTF-8") as f:
+    with open(f'./Programmers/LEVEL{level}.md', 'w', encoding = "UTF-8") as f:
         f.writelines(header)
         f.write('\n\n')
         

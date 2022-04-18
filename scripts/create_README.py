@@ -10,11 +10,12 @@ with open('./md/header.md', 'r', encoding = "UTF-8") as f:
 
 tableHeader = ["난이도","문제 링크","해결한 문제 수","전체 문제 수"]
 tables.append(f"-----------------------------")
+tables.append(f"## 프로그래머스")
 
 tables.append(f"| {' | '.join(tableHeader)} |")
 tables.append(f"| {':--: |' * len(tableHeader)}")
 for idx in range(0, 4):
-    path = f'./lv{idx+1}'
+    path = f'./Programmers/lv{idx+1}'
     filelists = os.listdir(path)
     
     problems   = len(filelists)
