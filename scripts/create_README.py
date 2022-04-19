@@ -34,7 +34,7 @@ tables.append(f"## 삼성 SW 아카데미")
 tables.append(f"| {' | '.join(tableHeader)} |")
 tables.append(f"| {':--: |' * len(tableHeader)}")
 
-for idx in range(1):
+for idx in range(3):
     path = f'./SAMSUNG_SW_Expert_Academy/lv{idx+1}'
     filelists = os.listdir(path)
     

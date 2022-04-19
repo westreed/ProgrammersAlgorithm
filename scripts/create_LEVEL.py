@@ -67,7 +67,7 @@ unresolvedText = ["풀이완료", "**풀이안됨**"]
 folderPath = f'./SAMSUNG_SW_Expert_Academy'
 
 # 레벨 만큼 md파일 생성
-for idx in range(1):
+for idx in range(3):
     header = list()
     tables = list()
 
