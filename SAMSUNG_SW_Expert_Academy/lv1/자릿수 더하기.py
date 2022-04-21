@@ -6,5 +6,4 @@
 6789
 '''
 
-num = sum(map(int, list(input())))
-print(num)
+print(sum(map(int, list(input()))))

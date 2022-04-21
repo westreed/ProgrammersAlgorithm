@@ -12,6 +12,6 @@
 # 문제풀이
 case = int(input())
 for c in range(case):
-    problemList = (list(map(int, input().split()))) # 업로드할 땐 input으로 받기
+    problemList = (list(map(int, input().split())))
     total = int(round(sum(problemList) / len(problemList), 0))
     print(f'#{c+1} {total}')

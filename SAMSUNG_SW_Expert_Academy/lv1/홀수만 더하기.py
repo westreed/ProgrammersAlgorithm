@@ -12,6 +12,6 @@
 # 문제풀이
 case = int(input())
 for c in range(case):
-    problemList = (list(map(int, input().split()))) # 업로드할 땐 input으로 받기
+    problemList = (list(map(int, input().split())))
     total = sum(list(map(lambda x : x if x % 2==1 else 0, problemList)))
     print(f'#{c+1} {total}')
