@@ -46,5 +46,5 @@
 |40|2019 KAKAO BLIND RECRUITMENT|후보키|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%9B%84%EB%B3%B4%ED%82%A4.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42890)|
 
 
-**Update Date 2022/04/19 19:02:44 KST**
+**Update Date 2022/04/21 19:56:43 KST**
 

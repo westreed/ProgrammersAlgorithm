@@ -10,15 +10,15 @@
 | :--: |:--: |:--: |:--: |
 |레벨1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL1.md)|55|55|
 |레벨2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL2.md)|38|41|
-|레벨3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL3.md)|06|09|
+|레벨3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL3.md)|06|11|
 |레벨4|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL4.md)|00|02|
 ## 삼성 SW 아카데미
 | 난이도 | 문제 링크 | 해결한 문제 수 | 전체 문제 수 |
 | :--: |:--: |:--: |:--: |
 |레벨1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL1.md)|08|08|
 |레벨2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL2.md)|06|06|
-|레벨3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL3.md)|01|01|
+|레벨3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL3.md)|02|03|
 
 
-**Update Date 2022/04/19 19:02:44 KST**
+**Update Date 2022/04/21 19:56:43 KST**
 
