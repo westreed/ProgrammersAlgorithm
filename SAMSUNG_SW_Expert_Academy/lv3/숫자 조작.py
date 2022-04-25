@@ -3,13 +3,31 @@
 
 # 입력
 '''
-4
-12345
-54321
-142857
+6
 10000
-9990008
-5544332211
+1520
+11110
+10101
+99450
+11520
+21320
+9900321
+142857
+12121
+'''
+
+# 결과
+'''
+10000 10000
+1025 5120
+10111 11110
+10011 11100
+49950 99540
+10521 51120
+12320 31220
+1900329 9930021
+124857 842157
+11122 21121
 '''
 
 case = int(input())
@@ -25,14 +43,12 @@ for c in range(case):
     front   = 0
     while True:
         if index == length: break
-        for i in range(index+1,length):
+        for i in range(length-1, index, -1):
             if _number[i] > _number[front]:
                 front = i
         # 프론트보다 큰 값이 있는 경우
         if front != index:
-            _temp = _number[index]
-            _number[index] = _number[front]
-            _number[front] = _temp
+            _number[index], _number[front] = _number[front], _number[index]
             maxv = "".join(_number)
             break
         else:
@@ -45,7 +61,7 @@ for c in range(case):
     front   = 0
     while True:
         if index == length: break
-        for i in range(index+1,length):
+        for i in range(length-1, index, -1):
             if _number[i] < _number[front]:
                 if _number[i] == '0':
                     if index > 0:
@@ -55,9 +71,7 @@ for c in range(case):
 
         # 프론트보다 작은 값이 있는 경우
         if front != index:
-            _temp = _number[index]
-            _number[index] = _number[front]
-            _number[front] = _temp
+            _number[index], _number[front] = _number[front], _number[index]
             minv = "".join(_number)
             break
         else:
