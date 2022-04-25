@@ -35,16 +35,17 @@
 |29|해시|전화번호 목록|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42577)|
 |30|탐욕법(Greedy)|조이스틱 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1%20X.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42860)|
 |31|스택/큐|주식가격|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42584)|
-|32|2017 팁스타운|짝지어 제거하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/12973)|
-|33|완전탐색|카펫|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%EC%B9%B4%ED%8E%AB.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42842)|
-|34|탐욕법(Greedy)|큰 수 만들기 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20X.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42883)|
-|35|깊이/너비 우선 탐색(DFS/BFS)|타겟 넘버|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/43165)|
-|36|2019 카카오 개발자 겨울 인턴십|튜플|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%8A%9C%ED%94%8C.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/64065)|
-|37|스택/큐|프린터|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%94%84%EB%A6%B0%ED%84%B0.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42587)|
-|38|위클리 챌린지|피로도|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%94%BC%EB%A1%9C%EB%8F%84.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/87946)|
-|39|2021 Dev-Matching 웹 백엔드 개발자(상반기)|행렬 테두리 회전하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/77485)|
-|40|2019 KAKAO BLIND RECRUITMENT|후보키|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%9B%84%EB%B3%B4%ED%82%A4.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42890)|
+|32|2022 KAKAO BLIND RECRUITMENT|주차 요금 계산|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/92341)|
+|33|2017 팁스타운|짝지어 제거하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/12973)|
+|34|완전탐색|카펫|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%EC%B9%B4%ED%8E%AB.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42842)|
+|35|탐욕법(Greedy)|큰 수 만들기 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20X.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42883)|
+|36|깊이/너비 우선 탐색(DFS/BFS)|타겟 넘버|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/43165)|
+|37|2019 카카오 개발자 겨울 인턴십|튜플|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%8A%9C%ED%94%8C.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/64065)|
+|38|스택/큐|프린터|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%94%84%EB%A6%B0%ED%84%B0.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42587)|
+|39|위클리 챌린지|피로도|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%94%BC%EB%A1%9C%EB%8F%84.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/87946)|
+|40|2021 Dev-Matching 웹 백엔드 개발자(상반기)|행렬 테두리 회전하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/77485)|
+|41|2019 KAKAO BLIND RECRUITMENT|후보키|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv2/%ED%9B%84%EB%B3%B4%ED%82%A4.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42890)|
 
 
-**Update Date 2022/04/21 19:56:43 KST**
+**Update Date 2022/04/25 21:29:36 KST**
 
