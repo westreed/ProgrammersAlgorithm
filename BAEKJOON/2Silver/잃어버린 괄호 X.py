@@ -22,4 +22,4 @@ print(values)
 for order in permutations(range(signs)):
     tables = []
     for o in order:
-        
+        pass
