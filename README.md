@@ -17,14 +17,15 @@
 | :--: |:--: |:--: |:--: |
 |레벨1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL1.md)|08|08|
 |레벨2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL2.md)|06|06|
-|레벨3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL3.md)|19|19|
+|레벨3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL3.md)|19|20|
 ## BAEKJOON
 | 난이도 | 문제 링크 | 해결한 문제 수 | 전체 문제 수 |
 | :--: |:--: |:--: |:--: |
-|클래스1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/0Unrated.md)|00|00|
-|클래스2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze.md)|00|00|
-|클래스3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|01|01|
+|클래스1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/0Unrated.md)|01|01|
+|클래스2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze.md)|01|01|
+|클래스3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|05|06|
+|클래스4|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|01|01|
 
 
-**Update Date 2022/04/27 19:17:53 KST**
+**Update Date 2022/04/29 19:59:00 KST**
 
