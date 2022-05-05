@@ -17,5 +17,5 @@
 |11|수학, 구현|최소, 최대|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze/%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80.py)|[바로가기](https://www.acmicpc.net/problem/10818)|
 
 
-**Update Date 2022/05/05 20:13:17 KST**
+**Update Date 2022/05/05 20:16:35 KST**
 
