@@ -74,7 +74,7 @@ for idx in range(data.baekjoon_Folder):
     
     links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/{data.baekjoon_Level[idx]}.md'
     
-    line = f'|클래스{idx+1}|[바로가기]({links})|{problems-unresolved:02}|{problems:02}|'
+    line = f'|{data.baekjoon_Level[idx][1:]}|[바로가기]({links})|{problems-unresolved:02}|{problems:02}|'
     tables.append(line)
 
 '''-----------------------------------------------------------------------------------------------'''
