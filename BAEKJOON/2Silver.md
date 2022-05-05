@@ -12,10 +12,12 @@
 |06|BFS, DFS|유기농 배추|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.py)|[바로가기](https://www.acmicpc.net/problem/1012)|
 |07||잃어버린 괄호 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8%20X.py)|[바로가기](https://www.acmicpc.net/problem/1541)|
 |08|분할 정복, 재귀|종이의 개수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%A2%85%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1780)|
-|09|자료 구조, 우선순위 큐|최소 힙|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B5%9C%EC%86%8C%20%ED%9E%99.py)|[바로가기](https://www.acmicpc.net/problem/1927)|
-|10|BFS, 플로이드–와샬|케빈 베이컨의 6단계 법칙|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99.py)|[바로가기](https://www.acmicpc.net/problem/1389)|
-|11|수학, 임의 정밀도 / 큰 수 연산|팩토리얼 0의 개수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1676)|
+|09||체스판 다시 칠하기 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0%20X.py)|[바로가기](https://www.acmicpc.net/problem/1018)|
+|10|자료 구조, 우선순위 큐|최소 힙|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B5%9C%EC%86%8C%20%ED%9E%99.py)|[바로가기](https://www.acmicpc.net/problem/1927)|
+|11|BFS, 플로이드–와샬|케빈 베이컨의 6단계 법칙|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99.py)|[바로가기](https://www.acmicpc.net/problem/1389)|
+|12|수학, 임의 정밀도 / 큰 수 연산|팩토리얼 0의 개수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1676)|
+|13|그리디 알고리즘, 정렬|회의실 배정 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95%20X.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
 
 
-**Update Date 2022/04/29 23:10:15 KST**
+**Update Date 2022/05/05 20:13:17 KST**
 
