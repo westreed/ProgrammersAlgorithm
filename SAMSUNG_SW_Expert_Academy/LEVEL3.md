@@ -25,5 +25,5 @@
 |19|11736|평범한 숫자|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%ED%8F%89%EB%B2%94%ED%95%9C%20%EC%88%AB%EC%9E%90.py)|
 
 
-**Update Date 2022/05/05 20:16:35 KST**
+**Update Date 2022/05/06 17:18:20 KST**
 
