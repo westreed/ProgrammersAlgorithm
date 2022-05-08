@@ -1,21 +1,25 @@
+# 월간 코드 챌린지 시즌3
+# https://programmers.co.kr/learn/courses/30/lessons/87390
+
 def solution(n, left, right):
-    # array = [[0 for _ in range(n)] for _ in range(n)]
-    # for i in range(n):
-    #     array[i][i] = i+1
-    #     idx = 0
-    #     while idx < i:
-    #         array[idx][i] = i+1
-    #         array[i][idx] = i+1
-    #         idx += 1
+    length = right-left+1
+    array = [0 for _ in range(length)]
+
+    row,column = divmod(left, n)
+
+    for idx in range(length):
+        if column < row:
+            array[idx] = row+1
+        else:
+            array[idx] = column+1
+        
+        if column == n-1:
+            column = 0
+            row += 1
+        else: column += 1
     
-    # array2 = []
-    # for a in array:
-    #     array2.extend(a)
-    # print(array2)
-    
-    array = []
-    
-    return array2[left:right+1]
+    return array
+
 
 n = [
     3,
@@ -34,7 +38,7 @@ right = [
 
 result = [
     [3,2,2,3],
-    [4,3,3,3,4,4,4,4]
+    [4,3,3,3,4,4,4,4],
 ]
 
 for q in [0,1]:
