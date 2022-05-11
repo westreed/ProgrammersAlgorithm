@@ -1,22 +1,16 @@
 #
 # https://www.acmicpc.net/problem/1018
-from math import ceil
 
+# M ㅣ  N ㅡ
 M,N = map(int, input().split())
 Chess = []
-Pattern = []
-Checksum = []
 for m in range(M):
     data = input().strip()
     Chess.append(data)
 
-data = 'BW' * ceil(N/2)
-Pattern.append(data[:N])
-data = 'WB' * ceil(N/2)
-Pattern.append(data[:N])
+sM, sN = M-7, N-7
+Length = sM*sN
 
-for i in range(2):
-    
-
-for m in range(M):
-    pass
+for n in range(sN):
+    for m in range(sM):
+        
