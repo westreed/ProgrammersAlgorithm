@@ -6,5 +6,5 @@
 |00||emtpy|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/0Unrated/emtpy.py)|[바로가기]()|
 
 
-**Update Date 2022/05/11 16:37:03 KST**
+**Update Date 2022/05/11 19:57:42 KST**
 
