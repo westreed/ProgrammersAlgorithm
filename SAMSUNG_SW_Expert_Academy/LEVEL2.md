@@ -11,5 +11,5 @@
 |05|2007|패턴 마디의 길이|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv2/%ED%8C%A8%ED%84%B4%20%EB%A7%88%EB%94%94%EC%9D%98%20%EA%B8%B8%EC%9D%B4.py)|
 
 
-**Update Date 2022/05/12 19:00:20 KST**
+**Update Date 2022/05/12 19:00:54 KST**
 
