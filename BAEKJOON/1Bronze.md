@@ -14,8 +14,10 @@
 |08|수학, 구현, 사칙연산|숫자의 개수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze/%EC%88%AB%EC%9E%90%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/2577)|
 |09|구현, 문자열|알파벳 찾기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze/%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/10809)|
 |10|구현|음계|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze/%EC%9D%8C%EA%B3%84.py)|[바로가기](https://www.acmicpc.net/problem/2920)|
-|11|수학, 구현|최소, 최대|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze/%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80.py)|[바로가기](https://www.acmicpc.net/problem/10818)|
+|11|수학, 기하학|직사각형에서 탈출|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%20%ED%83%88%EC%B6%9C.py)|[바로가기](https://www.acmicpc.net/problem/1085)|
+|12|수학, 구현|최소, 최대|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze/%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80.py)|[바로가기](https://www.acmicpc.net/problem/10818)|
+|13|구현, 문자열|팰린드롬수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1259)|
 
 
-**Update Date 2022/05/11 19:57:42 KST**
+**Update Date 2022/05/12 19:00:20 KST**
 
