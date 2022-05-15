@@ -11,17 +11,21 @@
 |05|자료 구조, 문자열, 정렬, 해시를 사용한 집합과 맵|듣보잡|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%93%A3%EB%B3%B4%EC%9E%A1.py)|[바로가기](https://www.acmicpc.net/problem/1764)|
 |06|이분 탐색, 매개 변수 탐색|랜선 자르기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1654)|
 |07|구현, 브루트포스 알고리즘|마인크래프트|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8.py)|[바로가기](https://www.acmicpc.net/problem/18111)|
-|08|그래프 탐색, BFS|숨바꼭질|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.py)|[바로가기](https://www.acmicpc.net/problem/1697)|
-|09|브루트포스 알고리즘|영화감독 숌|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C.py)|[바로가기](https://www.acmicpc.net/problem/1436)|
-|10|BFS, DFS|유기농 배추|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.py)|[바로가기](https://www.acmicpc.net/problem/1012)|
-|11||잃어버린 괄호 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8%20X.py)|[바로가기](https://www.acmicpc.net/problem/1541)|
-|12|분할 정복, 재귀|종이의 개수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%A2%85%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1780)|
-|13|브루트포스 알고리즘|체스판 다시 칠하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1018)|
-|14|자료 구조, 우선순위 큐|최소 힙|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B5%9C%EC%86%8C%20%ED%9E%99.py)|[바로가기](https://www.acmicpc.net/problem/1927)|
-|15|BFS, 플로이드–와샬|케빈 베이컨의 6단계 법칙|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99.py)|[바로가기](https://www.acmicpc.net/problem/1389)|
-|16|수학, 임의 정밀도 / 큰 수 연산|팩토리얼 0의 개수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1676)|
-|17|그리디 알고리즘, 정렬|회의실 배정 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95%20X.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
+|08||소수 구하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1929)|
+|09|자료구조, 이분탐색|수 찾기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1920)|
+|10|정렬|수열 정렬|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%88%98%EC%97%B4%20%EC%A0%95%EB%A0%AC.py)|[바로가기](https://www.acmicpc.net/problem/1015)|
+|11|그래프 탐색, BFS|숨바꼭질|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.py)|[바로가기](https://www.acmicpc.net/problem/1697)|
+|12|자료구조, 스택|스택 수열 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4%20X.py)|[바로가기](https://www.acmicpc.net/problem/1874)|
+|13|브루트포스 알고리즘|영화감독 숌|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C.py)|[바로가기](https://www.acmicpc.net/problem/1436)|
+|14|BFS, DFS|유기농 배추|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.py)|[바로가기](https://www.acmicpc.net/problem/1012)|
+|15||잃어버린 괄호 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8%20X.py)|[바로가기](https://www.acmicpc.net/problem/1541)|
+|16|분할 정복, 재귀|종이의 개수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%A2%85%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1780)|
+|17|브루트포스 알고리즘|체스판 다시 칠하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1018)|
+|18|자료 구조, 우선순위 큐|최소 힙|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B5%9C%EC%86%8C%20%ED%9E%99.py)|[바로가기](https://www.acmicpc.net/problem/1927)|
+|19|BFS, 플로이드–와샬|케빈 베이컨의 6단계 법칙|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99.py)|[바로가기](https://www.acmicpc.net/problem/1389)|
+|20|수학, 임의 정밀도 / 큰 수 연산|팩토리얼 0의 개수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1676)|
+|21|그리디 알고리즘, 정렬|회의실 배정 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95%20X.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
 
 
-**Update Date 2022/05/12 19:00:54 KST**
+**Update Date 2022/05/15 23:37:51 KST**
 
