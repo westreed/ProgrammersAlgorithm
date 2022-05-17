@@ -1,4 +1,4 @@
-# 
+# 수학, 정수론, 소수판정, 에라토스테네스의 체
 # https://www.acmicpc.net/problem/1929
 
 M,N = map(int, input().split())
