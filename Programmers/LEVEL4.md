@@ -7,5 +7,5 @@
 |01|이분탐색|징검다리 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv4/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20X.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/43236)|
 
 
-**Update Date 2022/05/17 19:57:55 KST**
+**Update Date 2022/05/18 21:08:35 KST**
 
