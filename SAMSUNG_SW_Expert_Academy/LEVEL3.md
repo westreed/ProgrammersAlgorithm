@@ -17,17 +17,19 @@
 |11|10804|문자열의 거울|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EA%B1%B0%EC%9A%B8.py)|
 |12|11856|반반|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EB%B0%98%EB%B0%98.py)|
 |13|13428|숫자 조작|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%88%AB%EC%9E%90%20%EC%A1%B0%EC%9E%91.py)|
-|14|10761|신뢰 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%8B%A0%EB%A2%B0%20X.py)|
+|14|10761|신뢰|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%8B%A0%EB%A2%B0.py)|
 |15|11315|오목 판정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%98%A4%EB%AA%A9%20%ED%8C%90%EC%A0%95.py)|
 |16|10912|외로운 문자|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%99%B8%EB%A1%9C%EC%9A%B4%20%EB%AC%B8%EC%9E%90.py)|
 |17|5293|이진 문자열 복원 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%9D%B4%EC%A7%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B3%B5%EC%9B%90%20X.py)|
-|18|13229|일요일|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%9D%BC%EC%9A%94%EC%9D%BC.py)|
-|19|13732|정사각형 판정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%ED%8C%90%EC%A0%95.py)|
-|20|10965|제곱수 만들기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%A0%9C%EA%B3%B1%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
-|21|13218|조별과제|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C.py)|
-|22|13547|팔씨름|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%ED%8C%94%EC%94%A8%EB%A6%84.py)|
-|23|11736|평범한 숫자|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%ED%8F%89%EB%B2%94%ED%95%9C%20%EC%88%AB%EC%9E%90.py)|
+|18|10726|이진수 표현|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%9D%B4%EC%A7%84%EC%88%98%20%ED%91%9C%ED%98%84.py)|
+|19|13229|일요일|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%9D%BC%EC%9A%94%EC%9D%BC.py)|
+|20|13732|정사각형 판정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%ED%8C%90%EC%A0%95.py)|
+|21|10570|제곱 팰린드롬 수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%A0%9C%EA%B3%B1%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%20%EC%88%98.py)|
+|22|10965|제곱수 만들기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%A0%9C%EA%B3%B1%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|
+|23|13218|조별과제|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EC%A1%B0%EB%B3%84%EA%B3%BC%EC%A0%9C.py)|
+|24|13547|팔씨름|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%ED%8C%94%EC%94%A8%EB%A6%84.py)|
+|25|11736|평범한 숫자|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%ED%8F%89%EB%B2%94%ED%95%9C%20%EC%88%AB%EC%9E%90.py)|
 
 
-**Update Date 2022/05/18 21:08:35 KST**
+**Update Date 2022/05/24 20:38:22 KST**
 
