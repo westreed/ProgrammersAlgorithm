@@ -1,3 +1,6 @@
+//11285
+//연습문제
+
 import java.io.*;
 
 public class 다트게임 {
