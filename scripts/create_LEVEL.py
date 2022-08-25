@@ -5,6 +5,7 @@ import data
 from urllib import parse
 
 
+
 # 프로그래머스 문제
 '''-----------------------------------------------------------------------------------------------'''
 tableHeader = ["순번","문제 유형","문제 이름","문제 풀이","풀이 링크", "문제 링크"]
@@ -143,9 +144,9 @@ for idx in range(data.baekjoon_Folder):
         problemType = ''
         with open(f'{path}/{file}', 'r', encoding='UTF-8') as f:
             textline = f.readline()
-            problemType = textline[1:].strip()
+            problemType = textline[2:].strip()
             textline = f.readline()
-            Baekjoonlink = textline[1:-1].strip()
+            Baekjoonlink = textline[2:-1].strip()
 
         links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/{data.baekjoon_Level[idx]}/{filelinks}'
 
