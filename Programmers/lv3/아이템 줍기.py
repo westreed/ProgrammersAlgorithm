@@ -1,6 +1,12 @@
 # 깊이/너비 우선 탐색(DFS/BFS)
 # https://school.programmers.co.kr/learn/courses/30/lessons/87694
 
+# 풀이 원리
+# 1. 모든 사각형을 내부는 채우지 않은 채, 외각선만 맵데이터에 표기한 후
+# 모든 사각형의 내부에 해당하는 영역을 전부 삭제하면 외각선만 남게 된다.
+# 2. 단순히 이렇게 처리하면, ㄷ 모양과 같은 외곽선을 제대로 인식할 수 없다.
+# 모든 길이를 2배로 늘리면 처리완료.
+
 def solution(rectangle, characterX, characterY, itemX, itemY):
     from collections import deque
     MapData = [[0 for _ in range(101)] for _ in range(101)]
