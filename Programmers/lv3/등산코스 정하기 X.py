@@ -25,47 +25,30 @@ def solution(n, paths, gates, summits):
     for gate in gates:
         visit = [False for _ in range(n+1)]
         nodes = [INF for _ in range(n+1)]
+        inten = [0 for _ in range(n+1)]
 
         nodes[gate] = 0
         visit[gate] = True
 
         for j,t in path[gate]:
             nodes[j] = t
+            inten[j] = t
 
-        for i in range(n-1):
+        for _ in range(n-1):
             now = get_smallest_node(visit, nodes)
             visit[now] = True
 
             for j,t in path[now]:
-                if nodes[now] < nodes[j]:
-                    nodes[j] = nodes[now]
+                cost = nodes[now] + t
+                if cost < nodes[j]:
+                    nodes[j] = cost
+                    inten[j] = t if inten[now] < t else inten[now]
         
+        # print(gate, nodes)
         for s in summits:
-            result.append((gate, s, nodes[s]))
+            result.append((gate, s, inten[s]))
     
     print(result)
-    
-
-
-    
-    return 0
-    result = []
-
-    def dfs(pos, route=[], gate=False, intensity=0):
-        course = path[pos]
-        for nxt, weight in course:
-            if nxt not in route:
-                temp_weight = weight if weight > intensity else intensity
-                if gate is False and nxt in summits:
-                    value = nxt + temp_weight*50000
-                    if value not in result: result.append(value)
-                    continue
-                dfs(nxt, route+[nxt], gate, temp_weight)
-    
-    for gate in gates: dfs(gate, [gate])
-    
-    result.sort()
-    return [result[0] % 50000, result[0] // 50000]
     
     
     
@@ -99,7 +82,7 @@ result = [
     [5, 6]
 ]
 
-for q in [1]:
+for q in [0,1,2,3]:
     qid = solution(n[q], paths[q], gates[q], summits[q])
     if qid == result[q]:
         print(f'correct {qid}')
