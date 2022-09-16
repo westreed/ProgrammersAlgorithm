@@ -3,7 +3,7 @@
 
 | 순번 | 문제 유형 | 문제 이름 | 문제 풀이 | 풀이 링크 | 문제 링크 |
 | :--: |:--: |:--: |:--: |:--: |:--: |
-|00|2020 카카오 인턴십|경주로 건설|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%EA%B2%BD%EC%A3%BC%EB%A1%9C%20%EA%B1%B4%EC%84%A4.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/67259)|
+|00|2020 카카오 인턴십|경주로 건설 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%EA%B2%BD%EC%A3%BC%EB%A1%9C%20%EA%B1%B4%EC%84%A4%20X.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/67259)|
 |01|깊이/너비 우선 탐색(DFS/BFS)|단어변환|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/43163)|
 |02|동적계획법(Dynamic Programming)|등굣길|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%EB%93%B1%EA%B5%A3%EA%B8%B8.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42898)|
 |03|2022 KAKAO TECH INTERNSHIP|등산코스 정하기 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%EB%93%B1%EC%82%B0%EC%BD%94%EC%8A%A4%20%EC%A0%95%ED%95%98%EA%B8%B0%20X.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)|
@@ -20,5 +20,5 @@
 |14|연습문제|하노이의 탑|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/12946)|
 
 
-**Update Date 2022/09/15 21:44:33 KST**
+**Update Date 2022/09/16 16:32:03 KST**
 
