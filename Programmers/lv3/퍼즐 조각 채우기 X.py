@@ -1,13 +1,20 @@
 # 깊이/너비 우선 탐색(DFS/BFS)
 # https://school.programmers.co.kr/learn/courses/30/lessons/84021
 
-def searchPiece(board, Size, Check):
+def SetStandardPoint(Piece):
+    leftX, leftY = 0xFFFFFFFF, 0xFFFFFFFF
+    for x,y in Piece:
+        if x < leftX or y < leftY:
+            leftX, leftY = x,y
+    return leftX, leftY
+
+def searchPiece(Board, Size, Check):
     from collections import deque
 
     Piece = []
     for y in range(Size):
         for x in range(Size):
-            if board[y][x] == Check:
+            if Board[y][x] == Check:
                 visit = [(x,y)]
                 node = deque([(x,y)])
                 temp = deque()
@@ -16,7 +23,7 @@ def searchPiece(board, Size, Check):
                     cx,cy = node.popleft()
                     for dx,dy in (-1,0), (1,0), (0,-1), (0,1):
                         nx,ny = cx+dx, cy+dy
-                        if 0 <= nx and nx < Size and 0 <= ny and ny < Size and board[ny][nx] == Check:
+                        if 0 <= nx and nx < Size and 0 <= ny and ny < Size and Board[ny][nx] == Check:
                             if (nx,ny) not in visit:
                                 visit.append((nx,ny))
                                 temp.append((nx,ny))
@@ -25,9 +32,9 @@ def searchPiece(board, Size, Check):
                         node = temp
                         temp = deque()
 
-                for vx,vy in visit: board[vy][vx] = not Check
+                for vx,vy in visit: Board[vy][vx] = not Check
                 visit = sorted(visit, key= lambda x:(x[0]+x[1]))
-                first = visit[0]
+                first = SetStandardPoint(visit)
                 for idx in range(len(visit)):
                     visit[idx] = (visit[idx][0]-first[0], visit[idx][1]-first[1])
                 Piece.append(visit)
