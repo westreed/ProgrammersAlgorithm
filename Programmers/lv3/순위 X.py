@@ -1,35 +1,37 @@
 # 그래프
 # https://programmers.co.kr/learn/courses/30/lessons/49191
 
-def dfs(pos, end, record):
-    cnt = 0
-    if pos == end:
-        return 1
-    
-    for p in record[pos]:
-        cnt += dfs(p, end, record)
+def bfs(Graph, n, start):
+    from collections import deque
 
-    return cnt
+    queue = deque([start])
+    visit = [False for _ in range(n+1)]
+    result = []
+    while queue:
+        node = queue.popleft()
+        for next in Graph[node]:
+            if visit[next] is False:
+                visit[next] = True
+                queue.append(next)
+                result.append(next)
+    
+    return result
 
 
 def solution(n, results):
     from collections import defaultdict
-    rank = [list(range(n)) for _ in range(n)]
-    record = defaultdict(list)
 
-    for re in results:
-        win, lose = re
-        record[win].append(lose)
+    Graph = defaultdict(list)
+    Defeat = [0]
+    for t1,t2 in results:
+        Graph[t2].append(t1)
     
-    print(record)
+    for node in range(1,n+1):
+        l = bfs(Graph, n, node)
+        Defeat.append(l)
     
-    result_l = [[len(record[i+1]),0] for i in range(n)]
-    for i in range(n): # 승자
-        for j in range(n): # 패자
-            if i != j:
-                result_l[j][1] += 1 if dfs(i+1, j+1, record) > 0 else 0
-    
-    print(result_l)
+    print(Defeat)
+    pass
 
     
 
@@ -38,10 +40,12 @@ n = [
     5
 ]
 results = [
-    [[4, 3], [4, 2], [3, 2], [1, 2], [2, 5]]
+    [[4, 3], [4, 2], [3, 2], [1, 2], [2, 5]],
+    [[3, 5], [4, 2], [4, 5], [5, 1], [5, 2]]
 ]
 result = [
-    2
+    2,
+    1
 ]
 
 for q in [0]:
