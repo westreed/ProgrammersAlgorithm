@@ -12,7 +12,7 @@
 |06|2019 카카오 개발자 겨울 인턴십|불량 사용자|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/64064)|
 |07|2017 카카오코드 예선|브라이언의 고민|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%EB%B8%8C%EB%9D%BC%EC%9D%B4%EC%96%B8%EC%9D%98%20%EA%B3%A0%EB%AF%BC.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/1830)|
 |08|2020 KAKAO BLIND RECRUITMENT|블록 이동하기 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%EB%B8%94%EB%A1%9D%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%20X.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/60063)|
-|09|그래프|순위 |**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%EC%88%9C%EC%9C%84%20X.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/49191)|
+|09|그래프|순위|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%EC%88%9C%EC%9C%84.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/49191)|
 |10|깊이/너비 우선 탐색(DFS/BFS)|아이템 줍기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%EC%95%84%EC%9D%B4%ED%85%9C%20%EC%A4%8D%EA%B8%B0.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|
 |11|이분탐색|입국심사|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/43238)|
 |12|깊이/너비 우선 탐색(DFS/BFS)|퍼즐 조각 채우기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%ED%8D%BC%EC%A6%90%20%EC%A1%B0%EA%B0%81%20%EC%B1%84%EC%9A%B0%EA%B8%B0.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|
@@ -20,5 +20,5 @@
 |14|연습문제|하노이의 탑|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv3/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/12946)|
 
 
-**Update Date 2022/09/20 07:45:18 KST**
+**Update Date 2022/09/20 14:08:29 KST**
 
