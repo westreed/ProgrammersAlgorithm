@@ -21,22 +21,32 @@ def bfs(Graph, n, start):
 def solution(n, results):
     from collections import defaultdict
 
-    Graph = defaultdict(list)
+    Winner_Graph = defaultdict(list)
+    Defeat_Graph = defaultdict(list)
+    Winner = [0]
     Defeat = [0]
     for t1,t2 in results:
-        Graph[t2].append(t1)
+        Winner_Graph[t1].append(t2)
+        Defeat_Graph[t2].append(t1)
     
     for node in range(1,n+1):
-        l = bfs(Graph, n, node)
-        Defeat.append(l)
-    
-    print(Defeat)
-    pass
+        w = bfs(Winner_Graph, n, node)
+        d = bfs(Defeat_Graph, n, node)
+        Winner.append(w)
+        Defeat.append(d)
+
+    answer = 0
+    for player in range(1, n+1):
+        temp = len(Winner[player])+len(Defeat[player])
+        if temp == n-1:
+            answer += 1
+    return answer
 
     
 
 
 n = [
+    5,
     5
 ]
 results = [
@@ -48,7 +58,7 @@ result = [
     1
 ]
 
-for q in [0]:
+for q in [1]:
     qid = solution(n[q], results[q])
     if qid == result[q]:
         print(f'correct {qid}')
