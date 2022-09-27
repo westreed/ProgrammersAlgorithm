@@ -1,19 +1,6 @@
 # 힙(Heap)
 # https://programmers.co.kr/learn/courses/30/lessons/42627
 
-class Job:
-    def __init__(self, arrive, runtime):
-        self.value = arrive+runtime
-        self.arrive = arrive
-        self.runtime = runtime
-
-    def __lt__(self, other):
-        return self.value < other.value
-    
-    def print(self):
-        print(self.value, self.arrive, self.runtime)
-
-
 
 def solution(jobs):
     import heapq
@@ -21,17 +8,16 @@ def solution(jobs):
 
     length = len(jobs)
     runing = 0 # 소요시간
-    workIn = []
-    finish = []
-
-    jobList = []
-    for i in range(length):
-        jobList.append(Job(jobs[i][0], jobs[i][1]))
+    heapq1 = []
+    heapq2 = []
+    for idx,job in enumerate(jobs):
+        heapq.heappush(heapq1, (job[1],idx))
+        heapq.heappush(heapq2, (job[0]+job[1],idx))
     
-    jobList = sorted(jobList)
-    for i in range(length):
-        jobList[i].print()
-
+    for j in range(len(jobs)):
+        t1 = heapq.heappop(heapq1)
+        t2 = heapq.heappop(heapq2)
+        print(t1,t2)
     
 
 
@@ -48,7 +34,7 @@ result = [
     12
 ]
 
-for q in [0]:
+for q in [2]:
     qid = solution(jobs[q])
     if qid == result[q]:
         print(f'correct {qid}')
