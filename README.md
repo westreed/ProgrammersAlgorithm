@@ -9,7 +9,7 @@
 | 난이도 | 문제 링크 | 해결한 문제 수 | 전체 문제 수 |
 | :--: |:--: |:--: |:--: |
 |레벨1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL1.md)|56|56|
-|레벨2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL2.md)|44|47|
+|레벨2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL2.md)|44|48|
 |레벨3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL3.md)|10|17|
 |레벨4|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL4.md)|01|02|
 ## 삼성 SW 아카데미
@@ -27,5 +27,5 @@
 |Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|02|02|
 
 
-**Update Date 2022/09/28 08:48:32 KST**
+**Update Date 2022/10/04 16:02:55 KST**
 
