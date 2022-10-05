@@ -61,5 +61,5 @@
 |55|연습문제|행렬의 덧셈|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv1/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/12950)|
 
 
-**Update Date 2022/10/04 16:02:55 KST**
+**Update Date 2022/10/05 16:01:55 KST**
 
