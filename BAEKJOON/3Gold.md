@@ -7,5 +7,5 @@
 |01|브루트포스 알고리즘|Python|리모컨|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EB%A6%AC%EB%AA%A8%EC%BB%A8.py)|[바로가기](https://www.acmicpc.net/problem/1107)|
 
 
-**Update Date 2022/11/01 16:54:56 KST**
+**Update Date 2022/11/11 16:00:21 KST**
 
