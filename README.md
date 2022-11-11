@@ -17,7 +17,7 @@
 | :--: |:--: |:--: |:--: |
 |레벨1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL1.md)|08|08|
 |레벨2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL2.md)|06|06|
-|레벨3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL3.md)|43|44|
+|레벨3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL3.md)|44|46|
 ## BAEKJOON
 | 난이도 | 문제 링크 | 해결한 문제 수 | 전체 문제 수 |
 | :--: |:--: |:--: |:--: |
@@ -27,5 +27,5 @@
 |Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|02|02|
 
 
-**Update Date 2022/11/11 16:00:21 KST**
+**Update Date 2022/11/11 18:32:18 KST**
 
