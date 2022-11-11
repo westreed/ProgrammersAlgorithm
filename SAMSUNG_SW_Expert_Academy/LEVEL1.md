@@ -13,5 +13,5 @@
 |07|02072|Python|홀수만 더하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv1/%ED%99%80%EC%88%98%EB%A7%8C%20%EB%8D%94%ED%95%98%EA%B8%B0.py)|
 
 
-**Update Date 2022/11/01 16:54:56 KST**
+**Update Date 2022/11/11 16:00:21 KST**
 

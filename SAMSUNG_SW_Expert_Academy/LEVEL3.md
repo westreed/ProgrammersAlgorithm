@@ -6,7 +6,7 @@
 |00|14178|Python|1차원 정원|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/1%EC%B0%A8%EC%9B%90%20%EC%A0%95%EC%9B%90.py)|
 |01|12368|Python|24시간|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/24%EC%8B%9C%EA%B0%84.py)|
 |02|11688|Python|Calkin-Wilf tree 1|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/Calkin-Wilf%20tree%201.py)|
-|03|14413|Python|격자판 칠하기|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EA%B2%A9%EC%9E%90%ED%8C%90%20%EC%B9%A0%ED%95%98%EA%B8%B0%20X.py)|
+|03|14413|Python|격자판 칠하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EA%B2%A9%EC%9E%90%ED%8C%90%20%EC%B9%A0%ED%95%98%EA%B8%B0.py)|
 |04|14555|Python|공과 잡초|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EA%B3%B5%EA%B3%BC%20%EC%9E%A1%EC%B4%88.py)|
 |05|13038|Python|교환학생|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EA%B5%90%ED%99%98%ED%95%99%EC%83%9D.py)|
 |06|12004|Python|구구단1|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%EA%B5%AC%EA%B5%AC%EB%8B%A81.py)|
@@ -49,5 +49,5 @@
 |43|11736|Python|평범한 숫자|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%ED%8F%89%EB%B2%94%ED%95%9C%20%EC%88%AB%EC%9E%90.py)|
 
 
-**Update Date 2022/11/01 16:54:56 KST**
+**Update Date 2022/11/11 16:00:21 KST**
 
