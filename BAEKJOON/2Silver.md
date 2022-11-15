@@ -7,7 +7,7 @@
 |01|구현|Python|D-Day|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/D-Day%20X.py)|[바로가기](https://www.acmicpc.net/problem/1308)|
 |02|BFS, DFS|Python|DFS와 BFS|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/DFS%EC%99%80%20BFS.py)|[바로가기](https://www.acmicpc.net/problem/1260)|
 |03|분할 정복, 재귀|Python|Z|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/Z.py)|[바로가기](https://www.acmicpc.net/problem/1074)|
-|04||Python|그녀를 찾아서 (풀이중)|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EA%B7%B8%EB%85%80%EB%A5%BC%20%EC%B0%BE%EC%95%84%EC%84%9C%20%28%ED%92%80%EC%9D%B4%EC%A4%91%29.py)|[바로가기](https://www.acmicpc.net/problem/16502)|
+|04||Python|그녀를 찾아서|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EA%B7%B8%EB%85%80%EB%A5%BC%20%EC%B0%BE%EC%95%84%EC%84%9C.py)|[바로가기](https://www.acmicpc.net/problem/16502)|
 |05|자료 구조, 해시를 사용한 집합과 맵|Python|나는야 포켓몬 마스터 이다솜|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%82%98%EB%8A%94%EC%95%BC%20%ED%8F%AC%EC%BC%93%EB%AA%AC%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EC%9D%B4%EB%8B%A4%EC%86%9C.py)|[바로가기](https://www.acmicpc.net/problem/1620)|
 |06|이분탐색, 매개변수탐색|Python|나무 자르기|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/2805)|
 |07|수학, 다이나믹 프로그래밍, 조합론|Python|다리 놓기|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%8B%A4%EB%A6%AC%20%EB%86%93%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1010)|
@@ -44,5 +44,5 @@
 |38|그리디 알고리즘, 정렬|Python|회의실 배정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95%20X.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
 
 
-**Update Date 2022/11/15 19:13:32 KST**
+**Update Date 2022/11/15 19:57:07 KST**
 
