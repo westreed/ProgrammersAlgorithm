@@ -23,9 +23,9 @@
 | :--: |:--: |:--: |:--: |
 |Unrated|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/0Unrated.md)|01|01|
 |Bronze|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze.md)|17|17|
-|Silver|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|29|33|
+|Silver|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|35|39|
 |Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|02|02|
 
 
-**Update Date 2022/11/11 18:32:18 KST**
+**Update Date 2022/11/15 18:51:51 KST**
 

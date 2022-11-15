@@ -51,5 +51,5 @@
 |45|11736|Python|평범한 숫자|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%ED%8F%89%EB%B2%94%ED%95%9C%20%EC%88%AB%EC%9E%90.py)|
 
 
-**Update Date 2022/11/11 18:32:18 KST**
+**Update Date 2022/11/15 18:51:51 KST**
 
