@@ -22,5 +22,5 @@
 |16|구현, 문자열|Python|팰린드롬수|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1259)|
 
 
-**Update Date 2022/11/15 19:57:07 KST**
+**Update Date 2022/11/16 18:57:19 KST**
 
