@@ -20,7 +20,8 @@
 |14|수학, 기하학|Python|직사각형에서 탈출|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%20%ED%83%88%EC%B6%9C.py)|[바로가기](https://www.acmicpc.net/problem/1085)|
 |15|수학, 구현|Python|최소, 최대|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze/%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80.py)|[바로가기](https://www.acmicpc.net/problem/10818)|
 |16|구현, 문자열|Python|팰린드롬수|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1259)|
+|17|구현, 다이나믹 프로그래밍, 문자열|Python|핸드폰 번호 궁합|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B6%81%ED%95%A9.py)|[바로가기](https://www.acmicpc.net/problem/17202)|
 
 
-**Update Date 2022/11/18 18:17:17 KST**
+**Update Date 2022/11/30 23:06:53 KST**
 
