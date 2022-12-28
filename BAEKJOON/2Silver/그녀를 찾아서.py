@@ -1,4 +1,4 @@
-# 
+# 수학, 그래프 이론, 그래프 탐색, 확률론
 # https://www.acmicpc.net/problem/16502
 
 # 입력

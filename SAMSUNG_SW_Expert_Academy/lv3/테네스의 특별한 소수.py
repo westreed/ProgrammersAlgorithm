@@ -37,7 +37,6 @@ def findStartIdx(A):
 
     while True:
         _m = (_f + _r) // 2
-        print(_m, primes[_m], primes[_m-2 : _m+2])
         if A < primes[_m]:
             _r = _m
         elif A > primes[_m+1]:
