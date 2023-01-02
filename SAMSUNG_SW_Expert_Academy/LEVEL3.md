@@ -65,5 +65,5 @@
 |59|05549|Python|홀수일까 짝수일까|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv3/%ED%99%80%EC%88%98%EC%9D%BC%EA%B9%8C%20%EC%A7%9D%EC%88%98%EC%9D%BC%EA%B9%8C.py)|
 
 
-**Update Date 2023/01/02 18:01:18 KST**
+**Update Date 2023/01/02 18:07:32 KST**
 
