@@ -34,7 +34,7 @@ def LabelLanguage(file):
 '''-----------------------------------------------------------------------------------------------'''
 if Working_Programmers:
     tableHeader = ["순번","문제 유형","언어","문제 이름","문제 풀이","풀이 링크", "문제 링크"]
-    unresolvedText = ["풀이완료", "**풀이안됨**"]
+    unresolvedText = ["**풀이안됨**", "풀이완료"]
 
     folderPath = f'./Programmers'
 
