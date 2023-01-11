@@ -8,16 +8,16 @@
 ## 프로그래머스
 | 난이도 | 문제 링크 | 해결한 문제 수 | 전체 문제 수 |
 | :--: |:--: |:--: |:--: |
-|레벨1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL1.md)|56|56|
-|레벨2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL2.md)|44|48|
-|레벨3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL3.md)|11|19|
-|레벨4|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL4.md)|01|02|
+|레벨1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level1.md)|56|56|
+|레벨2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2.md)|44|48|
+|레벨3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3.md)|11|19|
+|레벨4|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level4.md)|01|02|
 ## 삼성 SW 아카데미
 | 난이도 | 문제 링크 | 해결한 문제 수 | 전체 문제 수 |
 | :--: |:--: |:--: |:--: |
-|레벨1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL1.md)|08|08|
-|레벨2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL2.md)|06|06|
-|레벨3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL3.md)|59|60|
+|레벨1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level1.md)|08|08|
+|레벨2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level2.md)|06|06|
+|레벨3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3.md)|59|60|
 ## BAEKJOON
 | 난이도 | 문제 링크 | 해결한 문제 수 | 전체 문제 수 |
 | :--: |:--: |:--: |:--: |
@@ -27,5 +27,5 @@
 |Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|02|03|
 
 
-**Update Date 2023/01/11 19:06:19 KST**
+**Update Date 2023/01/11 19:09:20 KST**
 
