@@ -16,8 +16,10 @@ answer = 0
 
 def find(x, y, size):
     global answer
+    if answer == -1: return
     if c == x and r == y:
         print(answer)
+        answer = -1
         return
     
     if c < x + size and r < y + size:
