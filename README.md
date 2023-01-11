@@ -22,10 +22,10 @@
 | 난이도 | 문제 링크 | 해결한 문제 수 | 전체 문제 수 |
 | :--: |:--: |:--: |:--: |
 |Unrated|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/0Unrated.md)|01|01|
-|Bronze|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze.md)|18|18|
-|Silver|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|38|42|
-|Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|02|02|
+|Bronze|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze.md)|21|21|
+|Silver|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|49|52|
+|Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|02|03|
 
 
-**Update Date 2022/11/30 23:06:53 KST**
+**Update Date 2023/01/10 22:03:46 KST**
 
