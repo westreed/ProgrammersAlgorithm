@@ -27,5 +27,5 @@
 |Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|02|03|
 
 
-**Update Date 2023/01/11 19:09:20 KST**
+**Update Date 2023/01/11 19:11:33 KST**
 

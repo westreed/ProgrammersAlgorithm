@@ -19,7 +19,7 @@
 |012|6019|Python|기차 사이의 파리|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EA%B8%B0%EC%B0%A8%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%8C%8C%EB%A6%AC.py)|
 |013|4751|Python|다솔이의 다이아몬드 장식|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EB%8B%A4%EC%86%94%EC%9D%B4%EC%9D%98%20%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C%20%EC%9E%A5%EC%8B%9D.py)|
 |014|6692|Python|다솔이의 월급 상자|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EB%8B%A4%EC%86%94%EC%9D%B4%EC%9D%98%20%EC%9B%94%EA%B8%89%20%EC%83%81%EC%9E%90.py)|
-|015|/11285|Java|다트게임|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84.java)|
+|015|11285|Java|다트게임|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84.java)|
 |016|11285|Python|다트게임|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84.py)|
 |017|12741|Python|두 전구|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EB%91%90%20%EC%A0%84%EA%B5%AC.py)|
 |018|5162|Python|두가지 빵의 딜레마|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EB%91%90%EA%B0%80%EC%A7%80%20%EB%B9%B5%EC%9D%98%20%EB%94%9C%EB%A0%88%EB%A7%88.py)|
@@ -41,7 +41,7 @@
 |034|15230|Python|알파벳 공부|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EA%B3%B5%EB%B6%80.py)|
 |035|11315|Python|오목 판정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EC%98%A4%EB%AA%A9%20%ED%8C%90%EC%A0%95.py)|
 |036|10912|Python|외로운 문자|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EC%99%B8%EB%A1%9C%EC%9A%B4%20%EB%AC%B8%EC%9E%90.py)|
-|037|/10059|Java|유효기간|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.java)|
+|037|10059|Java|유효기간|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.java)|
 |038|10059|Python|유효기간|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.py)|
 |039|5356|Python|의석이의 세로로 말해요|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EC%9D%98%EC%84%9D%EC%9D%B4%EC%9D%98%20%EC%84%B8%EB%A1%9C%EB%A1%9C%20%EB%A7%90%ED%95%B4%EC%9A%94.py)|
 |040|5293|Python|이진 문자열 복원|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%EC%9D%B4%EC%A7%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B3%B5%EC%9B%90.py)|
@@ -66,4 +66,4 @@
 |059|5549|Python|홀수일까 짝수일까|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3/%ED%99%80%EC%88%98%EC%9D%BC%EA%B9%8C%20%EC%A7%9D%EC%88%98%EC%9D%BC%EA%B9%8C.py)|
 
 
-**Update Date 2023/01/11 19:09:20 KST**
+**Update Date 2023/01/11 19:11:34 KST**
