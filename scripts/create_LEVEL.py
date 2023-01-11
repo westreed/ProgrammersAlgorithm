@@ -64,10 +64,10 @@ for folder, sitename in data.folder_List:
             siteLink = ''
             with open(f'{path}/{file}', 'r', encoding='UTF-8') as f:
                 textline = f.readline()
-                problemType = textline[1:].strip()
+                problemType = textline[2:].strip()
                 textline = f.readline()
                 if '문제 링크' in TableHeader[folder]:
-                    siteLink = textline[1:-1].strip()
+                    siteLink = textline[2:].strip()
 
             links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/{folder}/{filedata.name}/{fileLink}'
 
