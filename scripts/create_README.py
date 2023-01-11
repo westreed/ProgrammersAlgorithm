@@ -19,7 +19,7 @@ tables.append(f"| {' | '.join(tableHeader)} |")
 tables.append(f"| {':--: |' * len(tableHeader)}")
 
 for idx in range(data.programmers_Folder):
-    path = f'./Programmers/lv{idx+1}'
+    path = f'./Programmers/Level{idx+1}'
     filelists = os.listdir(path)
     
     problems   = len(filelists)
@@ -41,7 +41,7 @@ tables.append(f"| {' | '.join(tableHeader)} |")
 tables.append(f"| {':--: |' * len(tableHeader)}")
 
 for idx in range(data.ssea_Folder):
-    path = f'./SAMSUNG_SW_Expert_Academy/lv{idx+1}'
+    path = f'./SAMSUNG_SW_Expert_Academy/Level{idx+1}'
     filelists = os.listdir(path)
     
     problems   = len(filelists)
