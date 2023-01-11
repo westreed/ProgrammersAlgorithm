@@ -4,16 +4,12 @@ import pytz
 import data
 from urllib import parse
 
-Working_Programmers = True
-Working_SWAcademy   = True
-Working_BAEKJOON    = True
+Working_Programmers = False
+Working_SWAcademy   = False
+Working_BAEKJOON    = False
 
 def LabelLanguage(file):
-    langList = {"py":"Python", "java":"Java"}
-    langType = ""
-    solveType = False
-    fileName = ""
-
+    # langType에 파일 확장자명이 저장됨
     idx = len(file)
     for s in file[::-1]:
         if s == '.':
@@ -21,61 +17,69 @@ def LabelLanguage(file):
             break
         idx -= 1
 
-    # if file[-3:] == ".py": langType = "py"
-    # if file[-5:] == '.java': langType = "java"
-    # print(file[idx-2:idx])
+    # "문제이름 X.확장자" 일때, 해결하지 못한 문제임 
     solveType = False if file[idx-2:idx] == 'X.' else True
-    if solveType: fileName = file.replace("."+langType, "").strip()
-    else: fileName = file.replace("X."+langType, "").strip()
+
+    # 문제이름 가져오기
+    if solveType: fileName = file.replace(f".{langType}", "").strip()
+    else: fileName = file.replace(f"X.{langType}", "").strip()
+
+    # Dict 형태로 데이터 반환하기
+    langList = {"py":"Python", "java":"Java"}
     return {"lang":langList[langType], "solve":solveType, "name":fileName}
 
+TableHeader = {
+'Programmers' :                 ["순번","문제 유형","언어","문제 이름","문제 풀이","풀이 링크", "문제 링크"],
+'SAMSUNG_SW_Expert_Academy' :   ["순번","문제 유형","언어","문제 이름","문제 풀이","풀이 링크"],
+'BAEKJOON' :                    ["순번","문제 유형","언어","문제 이름","문제 풀이","풀이 링크", "문제 링크"]
+}
 
-# 프로그래머스 문제
-'''-----------------------------------------------------------------------------------------------'''
-if Working_Programmers:
-    tableHeader = ["순번","문제 유형","언어","문제 이름","문제 풀이","풀이 링크", "문제 링크"]
-    unresolvedText = ["**풀이안됨**", "풀이완료"]
+unresolvedText = ["**풀이안됨**", "풀이완료"]
 
-    folderPath = f'./Programmers'
+for folder, sitename in data.folder_List:
+    print(folder)
+    folderPath = f"./{folder}"
 
     # 레벨 만큼 md파일 생성
-    for idx in range(data.programmers_Folder):
-        header = list()
+    for filedata in os.scandir(folderPath):
+        if filedata.is_file(): continue # 파일은 생략하기
+
+        LevelName = filedata.name # 파일이름이랑 다름
+        if folder == 'BAEKJOON': LevelName = LevelName[1:] # 폴더앞 숫자제거
+        header = [f'# {sitename}\n\n',f'## {LevelName}']
         tables = list()
 
-        level = idx+1
-        header = [f'# 프로그래머스\n',f'## LEVEL {level}']
+        tables.append(f"| {' | '.join(TableHeader[folder])} |")
+        tables.append(f"| {':--: |' * len(TableHeader[folder])}")
 
-        tables.append(f"| {' | '.join(tableHeader)} |")
-        tables.append(f"| {':--: |' * len(tableHeader)}")
-
-        path = f'{folderPath}/lv{level}'
+        path = f'{folderPath}/{filedata.name}'
         filelists = os.listdir(path)
         filelists.sort()
         print(filelists)
 
         for index,file in enumerate(filelists):
             label = LabelLanguage(file)
-            # unresolved = True if file[-4:] == 'X.py' else False
-            # name = file.replace("X.py", "").replace(".py", "")
-            filelinks = parse.quote(file)
+            fileLink = parse.quote(file)
             problemType = ''
-            programmerslink = ''
+            siteLink = ''
             with open(f'{path}/{file}', 'r', encoding='UTF-8') as f:
                 textline = f.readline()
                 problemType = textline[1:].strip()
                 textline = f.readline()
-                programmerslink = textline[1:-1].strip()
+                if '문제 링크' in TableHeader[folder]:
+                    siteLink = textline[1:-1].strip()
 
-            links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/lv{level}/{filelinks}'
+            links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/{folder}/{filedata.name}/{fileLink}'
 
-            line = f'|{index:02}|{problemType}|{label["lang"]}|{label["name"]}|{unresolvedText[label["solve"]]}|[바로가기]({links})|[바로가기]({programmerslink})|'
+            line = f'|{index:03}|{problemType}|{label["lang"]}|{label["name"]}|{unresolvedText[label["solve"]]}|[바로가기]({links})|'
+            if '문제 링크' in TableHeader[folder]:
+                line += f'[바로가기]({siteLink})|'
             tables.append(line)
         
         tables = [ f"{line}\n" for line in tables ]
 
         # create MD
-        with open(f'{folderPath}/LEVEL{level}.md', 'w', encoding = "UTF-8") as f:
+        with open(f'{folderPath}/{filedata.name}.md', 'w', encoding = "UTF-8") as f:
             f.writelines(header)
             f.write('\n\n')
             
@@ -85,115 +89,4 @@ if Working_Programmers:
 
             # update
             timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
-            f.write(f"**Update Date {timeformat.strftime('%Y/%m/%d %H:%M:%S %Z')}**\n\n")
-
-# 삼성아카데미 문제
-'''-----------------------------------------------------------------------------------------------'''
-if Working_SWAcademy: 
-    tableHeader = ["순번","문제 유형","언어","문제 이름","문제 풀이","풀이 링크"]
-    unresolvedText = ["**풀이안됨**", "풀이완료"]
-
-    folderPath = f'./SAMSUNG_SW_Expert_Academy'
-
-    # 레벨 만큼 md파일 생성
-    for idx in range(data.ssea_Folder):
-        header = list()
-        tables = list()
-
-        level = idx+1
-        header = [f'# SAMSUNG SW Expert Academy\n',f'## LEVEL {level}']
-
-        tables.append(f"| {' | '.join(tableHeader)} |")
-        tables.append(f"| {':--: |' * len(tableHeader)}")
-
-        path = f'{folderPath}/lv{level}'
-        filelists = os.listdir(path)
-        filelists.sort()
-        print(filelists)
-
-        for index,file in enumerate(filelists):
-            label = LabelLanguage(file)
-            filelinks = parse.quote(file)
-            problemType = ''
-            with open(f'{path}/{file}', 'r', encoding='UTF-8') as f:
-                textline = f.readline()
-                problemType = int(textline[2:].strip())
-                textline = f.readline()
-
-            links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/lv{level}/{filelinks}'
-
-            line = f'|{index:02}|{problemType:05}|{label["lang"]}|{label["name"]}|{unresolvedText[label["solve"]]}|[바로가기]({links})|'
-            tables.append(line)
-        
-        tables = [ f"{line}\n" for line in tables ]
-
-        # create MD
-        with open(f'{folderPath}/LEVEL{level}.md', 'w', encoding = "UTF-8") as f:
-            f.writelines(header)
-            f.write('\n\n')
-            
-            # table
-            f.writelines(tables)
-            f.write('\n\n')
-
-            # update
-            timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
-            f.write(f"**Update Date {timeformat.strftime('%Y/%m/%d %H:%M:%S %Z')}**\n\n")
-
-# 백준 문제
-'''-----------------------------------------------------------------------------------------------'''
-if Working_BAEKJOON:
-    tableHeader = ["순번","문제 유형","언어","문제 이름","문제 풀이","풀이 링크","문제 링크"]
-    unresolvedText = ["**풀이안됨**", "풀이완료"]
-
-    folderPath = f'./BAEKJOON'
-
-    # 레벨 만큼 md파일 생성
-    for idx in range(data.baekjoon_Folder):
-        header = list()
-        tables = list()
-
-        level = idx+1
-        header = [f'# BAEKJOON\n',f'## {data.baekjoon_Level[idx][1:]}']
-
-        tables.append(f"| {' | '.join(tableHeader)} |")
-        tables.append(f"| {':--: |' * len(tableHeader)}")
-
-        path = f'{folderPath}/{data.baekjoon_Level[idx]}'
-        filelists = os.listdir(path)
-        filelists.sort()
-        print(filelists)
-
-        for index,file in enumerate(filelists):
-            label = LabelLanguage(file)
-            # unresolved = True if file[-4:] == 'X.py' else False
-            # name = file.replace("X.py", "").replace(".py", "")
-            filelinks = parse.quote(file)
-            problemType = ''
-            with open(f'{path}/{file}', 'r', encoding='UTF-8') as f:
-                textline = f.readline()
-                problemType = textline[2:].strip()
-                textline = f.readline()
-                Baekjoonlink = textline[2:-1].strip()
-
-            links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/{data.baekjoon_Level[idx]}/{filelinks}'
-
-            line = f'|{index:02}|{problemType}|{label["lang"]}|{label["name"]}|{unresolvedText[label["solve"]]}|[바로가기]({links})|[바로가기]({Baekjoonlink})|'
-            tables.append(line)
-        
-        tables = [ f"{line}\n" for line in tables ]
-
-        # create MD
-        with open(f'{folderPath}/{data.baekjoon_Level[idx]}.md', 'w', encoding = "UTF-8") as f:
-            f.writelines(header)
-            f.write('\n\n')
-            
-            # table
-            f.writelines(tables)
-            f.write('\n\n')
-
-            # update
-            timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
-            f.write(f"**Update Date {timeformat.strftime('%Y/%m/%d %H:%M:%S %Z')}**\n\n")
-
-'''-----------------------------------------------------------------------------------------------'''
+            f.write(f"**Update Date {timeformat.strftime('%Y/%m/%d %H:%M:%S %Z')}**")
