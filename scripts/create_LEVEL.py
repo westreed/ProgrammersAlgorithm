@@ -83,10 +83,10 @@ for folder, sitename in data.folder_List:
             f.writelines(header)
             f.write('\n\n')
             
-            # table
+            # Table
             f.writelines(tables)
             f.write('\n\n')
 
-            # update
+            # Update
             timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
             f.write(f"**Update Date {timeformat.strftime('%Y/%m/%d %H:%M:%S %Z')}**")
