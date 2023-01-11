@@ -28,7 +28,7 @@ for idx in range(data.programmers_Folder):
         if file[-4:] == 'X.py':
             unresolved += 1
     
-    links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/LEVEL{idx+1}.md'
+    links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level{idx+1}.md'
     
     line = f'|레벨{idx+1}|[바로가기]({links})|{problems-unresolved:02}|{problems:02}|'
     tables.append(line)
@@ -50,7 +50,7 @@ for idx in range(data.ssea_Folder):
         if file[-4:] == 'X.py':
             unresolved += 1
     
-    links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/LEVEL{idx+1}.md'
+    links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level{idx+1}.md'
     
     line = f'|레벨{idx+1}|[바로가기]({links})|{problems-unresolved:02}|{problems:02}|'
     tables.append(line)
