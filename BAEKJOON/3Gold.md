@@ -8,5 +8,5 @@
 |02|브루트포스 알고리즘|Python|제곱수 찾기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EC%A0%9C%EA%B3%B1%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1025)|
 
 
-**Update Date 2023/01/10 22:03:46 KST**
+**Update Date 2023/01/11 14:32:51 KST**
 
