@@ -2,31 +2,8 @@ import os
 import datetime
 import pytz
 import data
+from utility import LabelLanguage
 from urllib import parse
-
-Working_Programmers = False
-Working_SWAcademy   = False
-Working_BAEKJOON    = False
-
-def LabelLanguage(file):
-    # langType에 파일 확장자명이 저장됨
-    idx = len(file)
-    for s in file[::-1]:
-        if s == '.':
-            langType = file[idx:]
-            break
-        idx -= 1
-
-    # "문제이름 X.확장자" 일때, 해결하지 못한 문제임 
-    solveType = False if file[idx-2:idx] == 'X.' else True
-
-    # 문제이름 가져오기
-    if solveType: fileName = file.replace(f".{langType}", "").strip()
-    else: fileName = file.replace(f"X.{langType}", "").strip()
-
-    # Dict 형태로 데이터 반환하기
-    langList = {"py":"Python", "java":"Java"}
-    return {"lang":langList[langType], "solve":solveType, "name":fileName}
 
 TableHeader = {
 'Programmers' :                 ["순번","문제 유형","언어","문제 이름","문제 풀이","풀이 링크", "문제 링크"],
@@ -45,7 +22,7 @@ for folder, sitename in data.folder_List:
         if filedata.is_file(): continue # 파일은 생략하기
 
         LevelName = filedata.name # 파일이름이랑 다름
-        if folder == 'BAEKJOON': LevelName = LevelName[1:] # 폴더앞 숫자제거
+        # if folder == 'BAEKJOON': LevelName = LevelName[1:] # 폴더앞 숫자제거
         header = [f'# {sitename}\n\n',f'## {LevelName}']
         tables = list()
 
@@ -56,6 +33,9 @@ for folder, sitename in data.folder_List:
         filelists = os.listdir(path)
         filelists.sort()
         print(filelists)
+
+        # 폴더가 비어있으면, md파일을 생성하지 않고 다음으로 넘기기
+        if not filelists: continue
 
         for index,file in enumerate(filelists):
             label = LabelLanguage(file)
