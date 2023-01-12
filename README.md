@@ -2,7 +2,7 @@
 
 이 리포지토리는 코딩테스트를 대비하여 여러 문제의 코드풀이를 정리해서 업로드 및 관리합니다.<br>
 해당 리포티토리를 활용하시려면, 각 사이트별 난이도 폴더 안의 내용을 전부 삭제해주세요.
-    
+
 ## 사용방법
 
 1. `scripts/data.py` 안의 `folder_List` 내용을 (폴더이름, 사이트이름) 순으로 입력해주세요.
@@ -11,7 +11,6 @@
 4. 해당 폴더 안에 풀었던 문제파일을 업로드하세요.
 5. github에 업로드하면, gitAction에 의해, `scripts 폴더`안의 py파일이 실행되어 md 파일을 생성합니다.
 6. 해결하지 못한 문제는 파일명 뒤에 X를 붙이면, 해결하지 못한 문제로 계산됩니다.
-
 
 
 ## BAEKJOON
@@ -23,7 +22,6 @@
 |2Silver|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|55|57|96%|
 |3Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|02|03|67%|
 
-
 ## 프로그래머스
 
 
@@ -33,7 +31,6 @@
 |Level2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2.md)|44|48|92%|
 |Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3.md)|11|19|58%|
 |Level4|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level4.md)|01|02|50%|
-
 
 ## SAMSUNG SW Expert Academy
 
@@ -45,4 +42,4 @@
 |Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3.md)|59|60|98%|
 
 
-**Update Date 2023/01/12 16:39:20 KST**
+**Update Date 2023/01/12 17:15:27 KST**
