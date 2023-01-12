@@ -1,4 +1,4 @@
-# 코딩테스트 문제풀이
+# 문제정리용 Repository
 
 이 리포지토리는 코딩테스트를 대비하여 여러 문제의 코드풀이를 정리해서 업로드 및 관리합니다.<br>
 해당 리포티토리를 활용하시려면, 각 사이트별 난이도 폴더 안의 내용을 전부 삭제해주세요.
@@ -45,4 +45,4 @@
 |Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3.md)|59|60|98%|
 
 
-**Update Date 2023/01/12 16:36:29 KST**
+**Update Date 2023/01/12 16:39:20 KST**
