@@ -5,7 +5,7 @@ def LabelLanguage(file:str) -> dict:
     Args:
         file (string) : 파일이름
     Returns:
-        result (dict['lang', 'solve', 'name'])
+        dict ('lang':string, 'solve':boolean, 'name':string)
     '''
 
     # langType에 파일 확장자명이 저장됨
