@@ -44,4 +44,4 @@
 |Level2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level2.md)|06|06|100%|
 
 
-**Update Date 2023/01/12 16:29:54 KST**
+**Update Date 2023/01/12 16:35:25 KST**
