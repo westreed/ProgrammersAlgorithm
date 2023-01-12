@@ -4,18 +4,17 @@ import pytz
 import data
 from utility import LabelLanguage
 
-header = list()
-tables = list()
+header, tables = list(), list()
+
 with open('./md/header.md', 'r', encoding = "UTF-8") as f:
     header = f.readlines()
-    f.close()
 
-tableHeader = ["난이도","문제 링크","해결한 문제","전체 문제", "해결비율(%)"]
+TableHeader = data.ReadmeTableHeader[:]
 
 for folder, sitename in data.folder_List:
-    tables.append(f"\n\n## {sitename}\n\n")
-    tables.append(f"| {' | '.join(tableHeader)} |")
-    tables.append(f"| {':--: |' * len(tableHeader)}")
+    tables.append(f"\n## {sitename}\n\n")
+    tables.append(f"| {' | '.join(TableHeader)} |")
+    tables.append(f"| {':--: |' * len(TableHeader)}")
 
     print(folder)
     folderPath = f"./{folder}"
