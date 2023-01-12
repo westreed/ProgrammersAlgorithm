@@ -49,7 +49,7 @@ for folder, sitename in data.folder_List:
                 if '문제 링크' in TableHeader[folder]:
                     siteLink = textline[2:].strip()
 
-            links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/{folder}/{filedata.name}/{fileLink}'
+            links = f'https://github.com/{data.githubLink}/blob/main/{folder}/{filedata.name}/{fileLink}'
 
             line = f'|{index:03}|{problemType}|{label["lang"]}|{label["name"]}|{unresolvedText[label["solve"]]}|[바로가기]({links})|'
             if '문제 링크' in TableHeader[folder]:

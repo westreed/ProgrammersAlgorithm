@@ -1,4 +1,6 @@
 
+githubLink = 'westreed/ProgrammersAlgorithm'
+
 folder_List = [
     ('BAEKJOON', 'BAEKJOON'),
     ('Programmers', '프로그래머스'),

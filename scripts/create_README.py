@@ -21,6 +21,7 @@ for folder, sitename in data.folder_List:
     folderPath = f"./{folder}"
 
     # 레벨별 데이터 가져오기
+    level_line = []
     for filedata in os.scandir(folderPath):
         if filedata.is_file(): continue # 파일은 생략하기
 
@@ -34,11 +35,13 @@ for folder, sitename in data.folder_List:
             if label["solve"] is False:
                 unsolved += 1
         
-        links = f'https://github.com/westreed/ProgrammersAlgorithm/blob/main/{folder}/{filedata.name}.md'
+        links = f'https://github.com/{data.githubLink}/blob/main/{folder}/{filedata.name}.md'
         line = f'|{filedata.name}|[바로가기]({links})|{problems-unsolved:02}|{problems:02}|'
         if problems == 0: line += f'100%|'
         else: line += f'{int(round(((problems-unsolved)/problems)*100, 0))}%|'
-        tables.append(line)
+        level_line.append(line)
+    level_line.sort()
+    tables += level_line
 
 # Create README.md
 tables = [ f"{line}\n" for line in tables ]
