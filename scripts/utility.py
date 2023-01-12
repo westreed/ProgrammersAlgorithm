@@ -1,6 +1,13 @@
+import data
 
+def LabelLanguage(file:str) -> dict:
+    '''
+    Args:
+        file (string) : 파일이름
+    Returns:
+        result (dict['lang', 'solve', 'name'])
+    '''
 
-def LabelLanguage(file):
     # langType에 파일 확장자명이 저장됨
     idx = len(file)
     for s in file[::-1]:
@@ -17,5 +24,9 @@ def LabelLanguage(file):
     else: fileName = file.replace(f"X.{langType}", "").strip()
 
     # Dict 형태로 데이터 반환하기
-    langList = {"py":"Python", "java":"Java"}
-    return {"lang":langList[langType], "solve":solveType, "name":fileName}
+    return {
+        # data.LangList에 해당 확장자에 대한 언어이름이 없으면, 확장자명 그대로 사용하기
+        "lang" : data.LangList[langType] if langType in data.LangList else langType,
+        "solve" : solveType,
+        "name" : fileName
+    }
