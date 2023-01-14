@@ -14,6 +14,7 @@
 1 1
 '''
 
+from collections import deque
 input = __import__('sys').stdin.readline
 TestCase = int(input())
 Direction = [(1,2), (2,1), (-1,2), (-2,1), (1,-2), (2,-1), (-1,-2), (-2,-1)]
@@ -26,11 +27,11 @@ for _ in range(TestCase):
     ChessMap = [[-1 for _ in range(Size)] for _ in range(Size)]
 
     ChessMap[Sy][Sx] = 0
-    Queue = []
+    Queue = deque()
     Queue.append((Sx, Sy))
 
     while Queue:
-        Nx, Ny = Queue.pop(0)
+        Nx, Ny = Queue.popleft()
         Cnt = ChessMap[Ny][Nx]
         CenterRng = abs(Nx-Tx)+abs(Ny-Ty)
 
