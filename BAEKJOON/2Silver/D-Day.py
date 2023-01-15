@@ -5,6 +5,9 @@
 2008 12 27
 2009 1 22
 
+2008 4 12
+2008 5 12
+
 2007 12 27
 2008 12 27
 
@@ -13,6 +16,9 @@
 
 3000 2 26
 3000 3 1
+
+9998 1 1
+9999 12 31
 '''
 
 start_date  = list(map(int, input().split()))
@@ -33,7 +39,8 @@ def returnDays(year, month):
 def isOver1000Year(date1, date2):
     cy,cm,cd = date1
     ey,em,ed = date2
-    if ey-cy >= 1000:
+    if ey-cy > 1000: return True
+    elif ey == cy+1000:
         if em > cm: return True
         elif em == cm and ed >= cd: return True
         else: return False
