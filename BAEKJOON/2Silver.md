@@ -7,7 +7,7 @@
 |000|다이나믹 프로그래밍|Python|1로 만들기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1463)|
 |001|다이나믹 프로그래밍|Python|2xn 타일링|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/2xn%20%ED%83%80%EC%9D%BC%EB%A7%81.py)|[바로가기](https://www.acmicpc.net/problem/11726)|
 |002|다이나믹 프로그래밍|Python|2xn 타일링2|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/2xn%20%ED%83%80%EC%9D%BC%EB%A7%812.py)|[바로가기](https://www.acmicpc.net/problem/11727)|
-|003|구현|Python|D-Day|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/D-Day%20X.py)|[바로가기](https://www.acmicpc.net/problem/1308)|
+|003|구현|Python|D-Day|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/D-Day.py)|[바로가기](https://www.acmicpc.net/problem/1308)|
 |004|BFS, DFS|Python|DFS와 BFS|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/DFS%EC%99%80%20BFS.py)|[바로가기](https://www.acmicpc.net/problem/1260)|
 |005|분할 정복, 재귀|Python|Z|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/Z.py)|[바로가기](https://www.acmicpc.net/problem/1074)|
 |006|자료 구조, 문자열, 스택|Python|괄호|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EA%B4%84%ED%98%B8.py)|[바로가기](https://www.acmicpc.net/problem/9012)|
@@ -63,4 +63,4 @@
 |056|그리디 알고리즘, 정렬|Python|회의실 배정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
 
 
-**Update Date 2023/01/14 20:42:32 KST**
+**Update Date 2023/01/15 13:46:58 KST**
