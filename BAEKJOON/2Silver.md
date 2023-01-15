@@ -55,12 +55,13 @@
 |048|그래프 이론, 브루트포스 알고리즘, 그래프 탐색, 플로이드-워셜|Python|친구|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B9%9C%EA%B5%AC.py)|[바로가기](https://www.acmicpc.net/problem/1058)|
 |049|자료구조, 큐|Python|카드2|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B9%B4%EB%93%9C2.py)|[바로가기](https://www.acmicpc.net/problem/2164)|
 |050|BFS, 플로이드–와샬|Python|케빈 베이컨의 6단계 법칙|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99.py)|[바로가기](https://www.acmicpc.net/problem/1389)|
-|051|자료구조, 큐|Python|큐|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%81%90.py)|[바로가기](https://www.acmicpc.net/problem/10845)|
-|052|수학, 구현, 정렬|Python|통계학|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%86%B5%EA%B3%84%ED%95%99.py)|[바로가기](https://www.acmicpc.net/problem/2108)|
-|053|수학, 임의 정밀도 / 큰 수 연산|Python|팩토리얼 0의 개수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1676)|
-|054|구현, 자료구조, 시뮬레이션, 큐|Python|프린터 큐|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.py)|[바로가기](https://www.acmicpc.net/problem/1966)|
-|055|그래프 이론, 브루트포스 알고리즘, 그래프 탐색|Python|한동이는 공부가 하기 싫어!|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%95%9C%EB%8F%99%EC%9D%B4%EB%8A%94%20%EA%B3%B5%EB%B6%80%EA%B0%80%20%ED%95%98%EA%B8%B0%20%EC%8B%AB%EC%96%B4%21.py)|[바로가기](https://www.acmicpc.net/problem/3182)|
-|056|그리디 알고리즘, 정렬|Python|회의실 배정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
+|051|분할 정복, 재귀|Python|쿼드트리|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.py)|[바로가기](https://www.acmicpc.net/problem/1992)|
+|052|자료구조, 큐|Python|큐|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%81%90.py)|[바로가기](https://www.acmicpc.net/problem/10845)|
+|053|수학, 구현, 정렬|Python|통계학|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%86%B5%EA%B3%84%ED%95%99.py)|[바로가기](https://www.acmicpc.net/problem/2108)|
+|054|수학, 임의 정밀도 / 큰 수 연산|Python|팩토리얼 0의 개수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1676)|
+|055|구현, 자료구조, 시뮬레이션, 큐|Python|프린터 큐|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.py)|[바로가기](https://www.acmicpc.net/problem/1966)|
+|056|그래프 이론, 브루트포스 알고리즘, 그래프 탐색|Python|한동이는 공부가 하기 싫어!|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%95%9C%EB%8F%99%EC%9D%B4%EB%8A%94%20%EA%B3%B5%EB%B6%80%EA%B0%80%20%ED%95%98%EA%B8%B0%20%EC%8B%AB%EC%96%B4%21.py)|[바로가기](https://www.acmicpc.net/problem/3182)|
+|057|그리디 알고리즘, 정렬|Python|회의실 배정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
 
 
-**Update Date 2023/01/15 16:15:18 KST**
+**Update Date 2023/01/15 16:35:37 KST**
