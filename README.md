@@ -1,6 +1,6 @@
 # 문제정리용 Repository
 
-이 리포지토리는 코딩테스트를 대비하여 여러 문제의 코드풀이를 정리해서 업로드 및 관리합니다.<br>
+이 리포지토리는 코딩테스트를 대비하여 여러 문제의 코드풀이를 정리해서 <span style="background:#40a9ff">업로드 및 관리</span>하는 용도입니다.<br>
 해당 리포티토리를 활용하시려면, 각 사이트별 난이도 폴더 안의 내용을 전부 삭제해주세요.
 
 ## 사용방법
@@ -16,16 +16,16 @@
 ## BAEKJOON
 
 
-| 난이도 | 문제 링크 | 해결한 문제 | 전체 문제 | 해결비율(%) |
+| 문제 난이도 | 문제 링크 | 해결한 문제 | 전체 문제 | 해결비율(%) |
 | :--: |:--: |:--: |:--: |:--: |
 |1Bronze|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze.md)|24|24|100%|
-|2Silver|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|55|57|96%|
+|2Silver|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|56|57|98%|
 |3Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|02|03|67%|
 
 ## 프로그래머스
 
 
-| 난이도 | 문제 링크 | 해결한 문제 | 전체 문제 | 해결비율(%) |
+| 문제 난이도 | 문제 링크 | 해결한 문제 | 전체 문제 | 해결비율(%) |
 | :--: |:--: |:--: |:--: |:--: |
 |Level1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level1.md)|56|56|100%|
 |Level2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2.md)|44|48|92%|
@@ -35,11 +35,11 @@
 ## SAMSUNG SW Expert Academy
 
 
-| 난이도 | 문제 링크 | 해결한 문제 | 전체 문제 | 해결비율(%) |
+| 문제 난이도 | 문제 링크 | 해결한 문제 | 전체 문제 | 해결비율(%) |
 | :--: |:--: |:--: |:--: |:--: |
 |Level1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level1.md)|08|08|100%|
 |Level2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level2.md)|06|06|100%|
 |Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3.md)|59|60|98%|
 
 
-**Update Date 2023/01/14 20:42:32 KST**
+**Update Date 2023/01/15 13:46:58 KST**
