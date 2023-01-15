@@ -16,7 +16,7 @@
 |009|자료 구조, 해시를 사용한 집합과 맵|Python|나는야 포켓몬 마스터 이다솜|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%82%98%EB%8A%94%EC%95%BC%20%ED%8F%AC%EC%BC%93%EB%AA%AC%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EC%9D%B4%EB%8B%A4%EC%86%9C.py)|[바로가기](https://www.acmicpc.net/problem/1620)|
 |010|이분탐색, 매개변수탐색|Python|나무 자르기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/2805)|
 |011|정렬|Python|나이순 정렬|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%82%98%EC%9D%B4%EC%88%9C%20%EC%A0%95%EB%A0%AC.py)|[바로가기](https://www.acmicpc.net/problem/10814)|
-|012||Python|나이트의 이동|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99%20X.py)|[바로가기](https://www.acmicpc.net/problem/7562)|
+|012|그래프 이론, 그래프 탐색, 너비 우선 탐색|Python|나이트의 이동|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.py)|[바로가기](https://www.acmicpc.net/problem/7562)|
 |013|그래프 이론, 문자열|Python|내 선물을 받아줘 2|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%82%B4%20%EC%84%A0%EB%AC%BC%EC%9D%84%20%EB%B0%9B%EC%95%84%EC%A4%98%202.py)|[바로가기](https://www.acmicpc.net/problem/15886)|
 |014|수학, 다이나믹 프로그래밍, 조합론|Python|다리 놓기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%8B%A4%EB%A6%AC%20%EB%86%93%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1010)|
 |015|구현, 문자열, 브루트포스 알고리즘, 정렬|Python|단어 나누기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%8B%A8%EC%96%B4%20%EB%82%98%EB%88%84%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1251)|
@@ -63,4 +63,4 @@
 |056|그리디 알고리즘, 정렬|Python|회의실 배정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
 
 
-**Update Date 2023/01/15 13:46:58 KST**
+**Update Date 2023/01/15 15:33:12 KST**
