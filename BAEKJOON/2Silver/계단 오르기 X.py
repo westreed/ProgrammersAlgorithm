@@ -15,24 +15,24 @@
 input = __import__('sys').stdin.readline
 N = int(input())
 Stair = [int(input()) for _ in range(N)]
-DP = [(0,0) for _ in range(N)]
+Score = 0
 
-print(Stair)
+from collections import deque
 
-for i in range(-1, N):
-    score, jump = DP[i]
-    if i+1 < N and jump < 2:
-        _score = score + Stair[i+1]
-        _jump = jump + 1
-        if DP[i+1][0] <= _score and (DP[i+1][1] == 0 or DP[i+1][1] >= _jump):
-            print(1)
-            DP[i+1] = (_score, _jump)
-    if i+2 < N:
-        _score = score + Stair[i+2]
-        _jump = 0
-        if DP[i+2][0] <= _score and DP[i+2][1] >= _jump:
-            print(2)
-            DP[i+2] = (_score, _jump)
-    print(DP)
+Queue = deque()
+Queue.append((0, 0, 0))
 
-# print(DP)
+while Queue:
+    idx, score, jump = Queue.popleft()
+
+    if idx == N-1:
+        if Score < score: Score = score
+        continue
+
+    if idx+1 < N and jump < 2:
+        Queue.append((idx+1, score+Stair[idx+1], jump+1))
+    
+    if idx+2 < N:
+        Queue.append((idx+2, score+Stair[idx+2], 0))
+
+print(Score)
