@@ -1,5 +1,5 @@
 # 분할 정복, 재귀
-# https://www.acmicpc.net/problem/1992
+# https://www.acmicpc.net/problem/2630
 
 # 입력
 '''
