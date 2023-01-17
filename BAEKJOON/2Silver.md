@@ -32,7 +32,7 @@
 |025|그래프 이론, 그래프 탐색, 너비 우선 탐색|Python|미로 탐색|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.py)|[바로가기](https://www.acmicpc.net/problem/2178)|
 |026|구현, 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색|Python|바닥 장식|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%B0%94%EB%8B%A5%20%EC%9E%A5%EC%8B%9D.py)|[바로가기](https://www.acmicpc.net/problem/1388)|
 |027|그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색|Python|바이러스|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)|[바로가기](https://www.acmicpc.net/problem/2606)|
-|028|분할 정복, 재귀|Python|색종이 만들기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1992)|
+|028|분할 정복, 재귀|Python|색종이 만들기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/2630)|
 |029|구현, 그래프이론|Python|소셜네트워크|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%86%8C%EC%85%9C%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)|[바로가기](https://www.acmicpc.net/problem/3098)|
 |030|수학, 정수론, 소수판정, 에라토스테네스의 체|Python|소수 구하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1929)|
 |031|수학, 정수론, 소수판정, 에라토스테네스의 체|Python|소수 찾기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1978)|
@@ -67,4 +67,4 @@
 |060|그리디 알고리즘, 정렬|Python|회의실 배정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
 
 
-**Update Date 2023/01/17 20:37:06 KST**
+**Update Date 2023/01/17 21:41:17 KST**
