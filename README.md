@@ -20,7 +20,7 @@
 | :--: |:--: |:--: |:--: |:--: |
 |1Bronze|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze.md)|24|24|100%|
 |2Silver|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|60|61|98%|
-|3Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|04|04|100%|
+|3Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|04|05|80%|
 
 ## 프로그래머스
 
@@ -42,4 +42,4 @@
 |Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3.md)|59|60|98%|
 
 
-**Update Date 2023/01/17 21:41:17 KST**
+**Update Date 2023/01/18 20:53:20 KST**
