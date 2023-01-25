@@ -8,4 +8,4 @@
 |001|이분탐색|Python|징검다리|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level4/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20X.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/43236)|
 
 
-**Update Date 2023/01/18 20:53:21 KST**
+**Update Date 2023/01/25 18:34:47 KST**
