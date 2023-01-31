@@ -1,4 +1,4 @@
-# 
+# 그래프 이론, 그래프 탐색, 너비 우선 탐색
 # https://www.acmicpc.net/problem/7562
 
 '''
@@ -14,9 +14,11 @@
 1 1
 '''
 
+from collections import deque
 input = __import__('sys').stdin.readline
 TestCase = int(input())
 Direction = [(1,2), (2,1), (-1,2), (-2,1), (1,-2), (2,-1), (-1,-2), (-2,-1)]
+
 
 for _ in range(TestCase):
     Size = int(input())
@@ -26,29 +28,20 @@ for _ in range(TestCase):
     ChessMap = [[-1 for _ in range(Size)] for _ in range(Size)]
 
     ChessMap[Sy][Sx] = 0
-    Queue = []
+    Queue = deque()
     Queue.append((Sx, Sy))
 
     while Queue:
-        Nx, Ny = Queue.pop(0)
-        Cnt = ChessMap[Ny][Nx]
-        CenterRng = abs(Nx-Tx)+abs(Ny-Ty)
+        Nx, Ny = Queue.popleft()
+        if Nx == Tx and Ny == Ty: break
 
         for Dx, Dy in Direction:
             Cx, Cy = Nx+Dx, Ny+Dy
             if 0 <= Cx < Size and 0 <= Cy < Size:
-                if ChessMap[Cy][Cx] == -1 or ChessMap[Cy][Cx] > Cnt:
-                    if abs(Cx-Tx)+abs(Cy-Ty) <= CenterRng:
-                        ChessMap[Cy][Cx] = Cnt+1
-                        Queue.append((Cx, Cy))
-        
-        # print(f"Queue:{len(Queue)} {Nx},{Ny}")
-        # for m in ChessMap:
-        #     for m1 in m:
-        #         print(f"{m1:02} ", end='')
-        #     else:
-        #         print()
-
+                if ChessMap[Cy][Cx] == -1:
+                    ChessMap[Cy][Cx] = ChessMap[Ny][Nx]+1
+                    Queue.append((Cx, Cy))
+    
 
     print(ChessMap[Ty][Tx])
 
