@@ -60,7 +60,7 @@
 |053|정렬, 값 / 좌표 압축|Python|좌표 압축|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.py)|[바로가기](https://www.acmicpc.net/problem/18870)|
 |054|정렬|Python|좌표 정렬하기 2|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.py)|[바로가기](https://www.acmicpc.net/problem/11651)|
 |055|정렬|Python|좌표 정렬하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/11650)|
-|056||Python|주지수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%A3%BC%EC%A7%80%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/15724)|
+|056|다이나믹 프로그래밍, 누적 합|Python|주지수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%A3%BC%EC%A7%80%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/15724)|
 |057|구현, 비트마스킹|Python|집합|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%A7%91%ED%95%A9.py)|[바로가기](https://www.acmicpc.net/problem/11723)|
 |058|브루트포스 알고리즘|Python|체스판 다시 칠하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B2%B4%EC%8A%A4%ED%8C%90%20%EB%8B%A4%EC%8B%9C%20%EC%B9%A0%ED%95%98%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1018)|
 |059|수학, 정수론, 유클리드 호제법|Python|최대공약수와 최소공배수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/2609)|
@@ -79,4 +79,4 @@
 |072|그리디 알고리즘, 정렬|Python|회의실 배정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
 
 
-**Update Date 2023/02/01 15:23:25 KST**
+**Update Date 2023/02/01 17:09:03 KST**
