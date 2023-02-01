@@ -1,4 +1,4 @@
-#
+# 다이나믹 프로그래밍, 누적 합
 # https://www.acmicpc.net/problem/15724
 
 # 입력
