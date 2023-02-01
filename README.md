@@ -19,7 +19,7 @@
 | 문제 난이도 | 문제 링크 | 해결한 문제 | 전체 문제 | 해결비율(%) |
 | :--: |:--: |:--: |:--: |:--: |
 |1Bronze|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze.md)|24|24|100%|
-|2Silver|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|68|68|100%|
+|2Silver|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|73|73|100%|
 |3Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|06|06|100%|
 
 ## 프로그래머스
@@ -42,4 +42,4 @@
 |Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3.md)|59|60|98%|
 
 
-**Update Date 2023/01/26 20:48:28 KST**
+**Update Date 2023/01/31 17:23:19 KST**
