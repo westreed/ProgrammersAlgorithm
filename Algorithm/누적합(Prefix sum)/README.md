@@ -12,8 +12,8 @@
 ```python
 def RangeSum(arr, i, j):
     _sum = 0
-    for i in range(x, y+1):
-        _sum += arra[i]
+    for idx in range(i, j+1):
+        _sum += arra[idx]
     return _sum
 ```
 
