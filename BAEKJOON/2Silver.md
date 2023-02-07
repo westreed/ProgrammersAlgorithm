@@ -11,7 +11,7 @@
 |004|그리디 알고리즘, 정렬|Python|ATM|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/ATM.py)|[바로가기](https://www.acmicpc.net/problem/11399)|
 |005|구현|Python|D-Day|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/D-Day.py)|[바로가기](https://www.acmicpc.net/problem/1308)|
 |006|BFS, DFS|Python|DFS와 BFS|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/DFS%EC%99%80%20BFS.py)|[바로가기](https://www.acmicpc.net/problem/1260)|
-|007|문자열|Python|IOIOI|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/IOIOI%20X.py)|[바로가기](https://www.acmicpc.net/problem/5525)|
+|007|문자열|Python|IOIOI|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/IOIOI.py)|[바로가기](https://www.acmicpc.net/problem/5525)|
 |008|분할 정복, 재귀|Python|Z|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/Z.py)|[바로가기](https://www.acmicpc.net/problem/1074)|
 |009|수학, 다이나믹 프로그래밍, 정수론|Python|걷다보니 신천역 삼(Large)|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EA%B1%B7%EB%8B%A4%EB%B3%B4%EB%8B%88%20%EC%8B%A0%EC%B2%9C%EC%97%AD%20%EC%82%BC%28Large%29.py)|[바로가기](https://www.acmicpc.net/problem/14651)|
 |010|다이나믹 프로그래밍|Python|계단 오르기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/2579)|
@@ -80,4 +80,4 @@
 |073|그리디 알고리즘, 정렬|Python|회의실 배정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
 
 
-**Update Date 2023/02/04 22:10:29 KST**
+**Update Date 2023/02/04 22:28:14 KST**
