@@ -71,3 +71,53 @@ while index < Number:
     index += 1
 
 print(Answer)
+
+# Try 3
+# 44716 KB	252 ms
+
+input = __import__('sys').stdin.readline
+
+Number = int(input())
+Meeting = []
+FlowTime = 0
+Answer = 0
+
+for _ in range(Number):
+    A,B = map(int, input().split())
+    Meeting.append((B,A))
+
+Meeting.sort()
+
+index = 0
+while index < Number:
+    end, start = Meeting[index]
+    if start >= FlowTime:
+        FlowTime += end-FlowTime
+        Answer += 1
+    
+    index += 1
+
+print(Answer)
+
+# Try 4
+# 46396 KB	304 ms
+
+import heapq
+input = __import__('sys').stdin.readline
+
+Number = int(input())
+Meeting = []
+FlowTime = 0
+Answer = 0
+
+for _ in range(Number):
+    A,B = map(int, input().split())
+    heapq.heappush(Meeting, (B,A))
+
+while Meeting:
+    end, start = heapq.heappop(Meeting)
+    if start >= FlowTime:
+        FlowTime += end-FlowTime
+        Answer += 1
+
+print(Answer)
