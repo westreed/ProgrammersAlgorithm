@@ -12,6 +12,25 @@
 5. github에 업로드하면, gitAction에 의해, `scripts 폴더`안의 py파일이 실행되어 md 파일을 생성합니다.
 6. 해결하지 못한 문제는 파일명 뒤에 X를 붙이면, 해결하지 못한 문제로 계산됩니다.
 
+## Github Action 오류
+
+1. Permission 오류
+
+```
+[main 73adc1d] update README.md
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+remote: Permission to westreed/ProgrammersAlgorithmDeploy.git denied to github-actions[bot].
+fatal: unable to access 'https://github.com/westreed/ProgrammersAlgorithm/': The requested URL returned error: 403
+Error: Process completed with exit code 128.
+```
+
+Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions]-[General]으로 들어가서
+아래 이미지와 같이 설정하세요.
+
+![Setting](https://github.com/westreed/ProgrammersAlgorithm/blob/main/src/Settings.PNG)
+
+
+
 
 ## BAEKJOON
 
@@ -42,4 +61,4 @@
 |Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3.md)|59|60|98%|
 
 
-**Update Date 2023/02/07 20:33:23 KST**
+**Update Date 2023/02/08 21:48:56 KST**
