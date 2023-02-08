@@ -24,10 +24,10 @@ fatal: unable to access 'https://github.com/westreed/ProgrammersAlgorithm/': The
 Error: Process completed with exit code 128.
 ```
 
-Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions]-[General]으로 들어가서
+Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions]-[General]으로 들어가서<br>
 아래 이미지와 같이 설정하세요.
 
-![Setting](https://github.com/westreed/ProgrammersAlgorithm/blob/main/src/Settings.PNG)
+![Setting](https://github.com/westreed/ProgrammersAlgorithm/blob/main/src/Settings.png)
 
 
 
@@ -61,4 +61,4 @@ Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions
 |Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3.md)|59|60|98%|
 
 
-**Update Date 2023/02/08 21:48:56 KST**
+**Update Date 2023/02/08 21:50:27 KST**
