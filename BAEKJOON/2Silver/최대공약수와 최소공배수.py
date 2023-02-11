@@ -11,11 +11,10 @@ while cnt <= A and cnt <= B:
         A //= cnt
         B //= cnt
         divisior.append(cnt)
-    else:
-        cnt += 1
+    cnt += 1
 
-def multi(a, b):
-    return a * b
+# def multi(a, b):
+#     return a * b
 
-print(reduce(multi, divisior))
-print(reduce(multi, divisior+[A,B]))
+print(reduce(lambda a,b : a*b, divisior))
+print(reduce(lambda a,b : a*b, divisior+[A,B]))
