@@ -16,7 +16,8 @@
 |009|브루트포스 알고리즘|Python|제곱수 찾기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EC%A0%9C%EA%B3%B1%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1025)|
 |010|구현, 브루트포스 알고리즘|Python|테트로미노|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.py)|[바로가기](https://www.acmicpc.net/problem/14500)|
 |011|그래프 이론, 그래프 탐색, 너비 우선 탐색|Python|토마토|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%86%A0%EB%A7%88%ED%86%A0.py)|[바로가기](https://www.acmicpc.net/problem/7576)|
-|012|다이나믹 프로그래밍, 배낭 문제|Python|호텔|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%98%B8%ED%85%94.py)|[바로가기](https://www.acmicpc.net/problem/1106)|
+|012|그래프 이론, 그래프 탐색, 너비 우선 탐색|Python|토마토2|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%86%A0%EB%A7%88%ED%86%A02.py)|[바로가기](https://www.acmicpc.net/problem/7569)|
+|013|다이나믹 프로그래밍, 배낭 문제|Python|호텔|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%98%B8%ED%85%94.py)|[바로가기](https://www.acmicpc.net/problem/1106)|
 
 
-**Update Date 2023/02/11 16:24:51 KST**
+**Update Date 2023/02/15 12:01:39 KST**
