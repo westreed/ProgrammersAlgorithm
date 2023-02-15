@@ -5,7 +5,7 @@
 | 순번 | 문제 유형 | 언어 | 문제 이름 | 문제 풀이 | 풀이 링크 | 문제 링크 |
 | :--: |:--: |:--: |:--: |:--: |:--: |:--: |
 |000|구현, 자료 구조, 문자열, 파싱, 덱|Python|AC|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/AC.py)|[바로가기](https://www.acmicpc.net/problem/5430)|
-|001||Python|DSLR|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/DSLR.py)|[바로가기](https://www.acmicpc.net/problem/9019)|
+|001|그래프 이론, 그래프 탐색, 너비 우선 탐색|Python|DSLR|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/DSLR.py)|[바로가기](https://www.acmicpc.net/problem/9019)|
 |002|자료 구조, 그래프 이론, 그래프 탐색, 분리 집합|Python|거짓말|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EA%B1%B0%EC%A7%93%EB%A7%90.py)|[바로가기](https://www.acmicpc.net/problem/1043)|
 |003|수학, 누적 합|Python|나머지 합|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EB%82%98%EB%A8%B8%EC%A7%80%20%ED%95%A9.py)|[바로가기](https://www.acmicpc.net/problem/10986)|
 |004|다이나믹 프로그래밍|Python|도로의 개수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EB%8F%84%EB%A1%9C%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1577)|
@@ -21,4 +21,4 @@
 |014|다이나믹 프로그래밍, 배낭 문제|Python|호텔|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%98%B8%ED%85%94.py)|[바로가기](https://www.acmicpc.net/problem/1106)|
 
 
-**Update Date 2023/02/15 12:54:32 KST**
+**Update Date 2023/02/15 12:56:09 KST**
