@@ -25,4 +25,5 @@ while Idx < M:
         Pat = 0
     Idx += 1
 
+if Pat >= N: A += Pat + 1 - N
 print(A)
