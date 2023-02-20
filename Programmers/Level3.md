@@ -16,7 +16,7 @@
 |009|2020 KAKAO BLIND RECRUITMENT|Python|블록 이동하기|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%EB%B8%94%EB%A1%9D%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%20X.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/60063)|
 |010|그래프|Python|순위|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%EC%88%9C%EC%9C%84.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/49191)|
 |011|깊이/너비 우선 탐색(DFS/BFS)|Python|아이템 줍기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%EC%95%84%EC%9D%B4%ED%85%9C%20%EC%A4%8D%EA%B8%B0.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|
-|012|2022 KAKAO BLIND RECRUITMENT|Python|양과 늑대|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%EC%96%91%EA%B3%BC%20%EB%8A%91%EB%8C%80%20X.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|
+|012|2022 KAKAO BLIND RECRUITMENT|Python|양과 늑대|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%EC%96%91%EA%B3%BC%20%EB%8A%91%EB%8C%80.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|
 |013|이분탐색|Python|입국심사|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/43238)|
 |014|2019 카카오 개발자 겨울 인턴십|Python|징검다리 건너기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)|
 |015|2022 KAKAO BLIND RECRUITMENT|Python|파괴되지 않은 건물|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%ED%8C%8C%EA%B4%B4%EB%90%98%EC%A7%80%20%EC%95%8A%EC%9D%80%20%EA%B1%B4%EB%AC%BC%20X.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|
@@ -25,4 +25,4 @@
 |018|연습문제|Python|하노이의 탑|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/12946)|
 
 
-**Update Date 2023/02/16 20:13:30 KST**
+**Update Date 2023/02/20 23:46:20 KST**
