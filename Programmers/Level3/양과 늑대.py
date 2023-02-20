@@ -3,7 +3,7 @@
 
 Answer = 0
 def solution(info, edges):
-    from collections import defaultdict, deque
+    from collections import defaultdict
     Graph = defaultdict(set)
     for i,j in edges:
         Graph[i].add(j)
