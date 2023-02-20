@@ -1,13 +1,28 @@
 # 2022 KAKAO BLIND RECRUITMENT
 # https://school.programmers.co.kr/learn/courses/30/lessons/92343
 
+Answer = 0
 def solution(info, edges):
-    Graph = [[] for _ in range(len(info))]
+    from collections import defaultdict, deque
+    Graph = defaultdict(set)
     for i,j in edges:
-        Graph[i].append(j)
-        Graph[j].append(i)
+        Graph[i].add(j)
     
-    print(Graph)
+    def dfs(sheep, wolf, node, path):
+        global Answer
+        if info[node] == 0:
+            sheep += 1
+            if sheep > Answer: Answer = sheep
+        else: wolf += 1
+
+        if sheep <= wolf: return
+        for next in path:
+            _path = Graph[next] | path - set([next])
+            dfs(sheep, wolf, next, _path)
+    
+    dfs(0, 0, 0, Graph[0])
+    return Answer
+
 
 info = [
     [0,0,1,1,1,0,1,0,1,0,1,1],
@@ -21,7 +36,7 @@ edges = [
 
 result = [5,5]
 
-for q in [0,1]:
+for q in [0, 1]:
     qid = solution(info[q], edges[q])
     if qid == result[q]:
         print(f'correct {qid}')
