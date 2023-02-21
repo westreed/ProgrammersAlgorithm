@@ -22,7 +22,8 @@
 |015|2022 KAKAO BLIND RECRUITMENT|Python|파괴되지 않은 건물|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%ED%8C%8C%EA%B4%B4%EB%90%98%EC%A7%80%20%EC%95%8A%EC%9D%80%20%EA%B1%B4%EB%AC%BC%20X.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|
 |016|깊이/너비 우선 탐색(DFS/BFS)|Python|퍼즐 조각 채우기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%ED%8D%BC%EC%A6%90%20%EC%A1%B0%EA%B0%81%20%EC%B1%84%EC%9A%B0%EA%B8%B0.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|
 |017|2021 카카오 채용연계형 인턴십|Python|표 편집|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%ED%91%9C%20%ED%8E%B8%EC%A7%91.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/81303)|
-|018|연습문제|Python|하노이의 탑|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/12946)|
+|018|2023 KAKAO BLIND RECRUITMENT|Python|표현 가능한 이진트리|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%ED%91%9C%ED%98%84%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/150367)|
+|019|연습문제|Python|하노이의 탑|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/12946)|
 
 
-**Update Date 2023/02/21 14:43:01 KST**
+**Update Date 2023/02/21 17:17:07 KST**
