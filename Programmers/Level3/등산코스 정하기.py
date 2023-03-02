@@ -51,45 +51,90 @@ def solution1(n, paths, gates, summits):
     print(result)
 
 # Try 2
+# 시간초과
 def solution2(n, paths, gates, summits):
     # 출발지 -> 산봉우리 경로만 찾으면 됨.
     # 이때, 출발지와 다른 출발지를 거치지 않는 상황만 체크하기
-    import heapq
-    from collections import defaultdict
+    from collections import defaultdict, deque
 
     Paths = defaultdict(list)
     for i,j,t in paths:
         Paths[i].append((j,t))
         Paths[j].append((i,t))
-
-    Result = []
     
-    def findByGate(n, Paths, Gate, Summits):
-        import heapq
-        from collections import deque
-
-        Queue = deque()
-        Result = []
-        Visit = [False for _ in range(n+1)]
-        Queue.append((Gate, 0))
-
-        while Queue:
-            node, inten = Queue.popleft()
-            Visit[node] = True
-
-            if node in Summits:
-                heapq.heappush(Result, [inten, node])
-
-            for next,time in Paths[node]:
-                if Visit[next] is False:
-                    Queue.append((next, inten if inten > time else time))
-        
-        return Result[0]
+    gates = set(gates)
+    summits = set(summits)
+    ResultInten = 10000001
+    ResultNode = 50001
     
     for gate in gates:
-        heapq.heappush(Result, findByGate(n, Paths, gate, summits))
+        
+        Queue = deque([gate])
+        Visit = defaultdict(int)
+        Visit[gate] = 0
+
+        while Queue:
+            node = Queue.popleft()
+            inten = Visit[node]
+
+            if node in summits:
+                if ResultInten > inten or (ResultInten >= inten and ResultNode >= node):
+                    ResultInten = inten
+                    ResultNode = node
+                continue
+
+            for next,time in Paths[node]:
+                if next in gates: continue
+                _inten = inten if inten > time else time
+                if next not in Visit or Visit[next] > _inten:
+                    Visit[next] = _inten
+                    Queue.append(next)
     
-    return [Result[0][1], Result[0][0]]
+    return [ResultNode, ResultInten]
+
+# Try 3
+# 통과 1446.89ms, 91.3MB
+def solution(n, paths, gates, summits):
+    from collections import defaultdict, deque
+
+    Paths = defaultdict(list)
+    for i,j,t in paths:
+        Paths[i].append((j,t))
+        Paths[j].append((i,t))
+    
+    gates = set(gates)
+    summits = set(summits)
+
+    intensity = [10000001] * (n+1)
+
+    def dijkstra(gate):
+        queue = deque([(0, gate)])
+        intensity[gate] = 0
+
+        while queue:
+            dist, node = queue.popleft()
+            if node in summits: continue
+
+            for next, inten in Paths[node]:
+                if next in gates: continue
+
+                _inten = max(dist, inten)
+                if intensity[next] > _inten:
+                    intensity[next] = _inten
+                    queue.append((_inten, next))
+    
+    for gate in gates:
+        dijkstra(gate)
+
+    answer = [50001, 10000001]
+    for summit in summits:
+        inten = intensity[summit]
+        if answer[1] > inten or (answer[1] >= inten and answer[0] >= summit):
+            answer = [summit, inten]
+    
+    return answer
+            
+
 
 
 n = [
@@ -122,7 +167,7 @@ result = [
 ]
 
 for q in [0, 1, 2, 3]:
-    qid = solution2(n[q], paths[q], gates[q], summits[q])
+    qid = solution(n[q], paths[q], gates[q], summits[q])
     if qid == result[q]:
         print(f'correct {qid}')
     else:
