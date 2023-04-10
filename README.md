@@ -49,7 +49,7 @@ Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions
 | 문제 난이도 | 문제 링크 | 해결한 문제 | 전체 문제 | 해결비율(%) |
 | :--: |:--: |:--: |:--: |:--: |
 |Level1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level1.md)|57|57|100%|
-|Level2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2.md)|53|57|93%|
+|Level2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2.md)|53|58|91%|
 |Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3.md)|21|23|91%|
 |Level4|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level4.md)|01|02|50%|
 
@@ -63,4 +63,4 @@ Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions
 |Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3.md)|59|60|98%|
 
 
-**Update Date 2023/03/20 20:15:05 KST**
+**Update Date 2023/04/10 23:10:01 KST**
