@@ -86,4 +86,4 @@
 |079|그리디 알고리즘, 정렬|Python|회의실 배정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
 
 
-**Update Date 2023/04/10 23:10:01 KST**
+**Update Date 2023/04/13 16:52:31 KST**

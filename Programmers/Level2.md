@@ -22,7 +22,7 @@
 |015|탐욕법(Greedy)|Python|구명보트|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42885)|
 |016|스택/큐|Python|기능개발|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42586)|
 |017|스택/큐|Python|다리를 지나는 트럭|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42583)|
-|018|연습문제|Python|당구 연습|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%EB%8B%B9%EA%B5%AC%20%EC%97%B0%EC%8A%B5%20X.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/169198?language=python3)|
+|018|연습문제|Python|당구 연습|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%EB%8B%B9%EA%B5%AC%20%EC%97%B0%EC%8A%B5.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/169198?language=python3)|
 |019|힙(Heap)|Python|더 맵게|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42626)|
 |020|연습문제|Python|덧칠하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%EB%8D%A7%EC%B9%A0%ED%95%98%EA%B8%B0.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)|
 |021|2022 KAKAO TECH INTERNSHIP|Python|두 규 합 같게 만들기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%EB%91%90%20%EA%B7%9C%20%ED%95%A9%20%EA%B0%99%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|
@@ -64,4 +64,4 @@
 |057|2019 KAKAO BLIND RECRUITMENT|Python|후보키|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%ED%9B%84%EB%B3%B4%ED%82%A4.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42890)|
 
 
-**Update Date 2023/04/10 23:10:01 KST**
+**Update Date 2023/04/13 16:52:31 KST**
