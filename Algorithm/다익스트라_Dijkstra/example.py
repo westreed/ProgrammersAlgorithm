@@ -16,6 +16,7 @@ def dijkstra(start):
         if Dist[node] < dist: continue
 
         for nxt, cost in Graph[node]:
+            # _cost = start에서 node까지의 비용 + node에서 nxt까지의 비용
             _cost = Dist[node]+cost
             if Dist[nxt] <= _cost: continue
             Dist[nxt] = _cost
