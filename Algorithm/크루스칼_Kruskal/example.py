@@ -85,6 +85,7 @@ if __name__ == "__main__":
     kr.push(5,6,45)
     kr.push(5,7,73)
 
-    kr.printNode(kr.graph[0])
+    for i in range(7):
+        kr.printNode(kr.graph[i])
     kr.find()
 
