@@ -32,4 +32,4 @@
 |025|자료 구조, 스택|Python|후위 표기식|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D.py)|[바로가기](https://www.acmicpc.net/problem/1918)|
 
 
-**Update Date 2023/11/03 21:42:08 KST**
+**Update Date 2023/11/03 22:56:51 KST**
