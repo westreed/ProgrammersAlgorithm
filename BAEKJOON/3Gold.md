@@ -28,6 +28,7 @@
 |021|그래프 이론, 데이크스트라, 최단 경로|Python|특정한 최단 경로|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.py)|[바로가기](https://www.acmicpc.net/problem/1504)|
 |022|그래프 이론, 데이크스트라, 최단 경로|Python|파티|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%8C%8C%ED%8B%B0.py)|[바로가기](https://www.acmicpc.net/problem/1238)|
 |023|다이나믹 프로그래밍, 배낭 문제|Python|호텔|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%98%B8%ED%85%94.py)|[바로가기](https://www.acmicpc.net/problem/1106)|
+|024|자료 구조, 스택|Python|후위 표기식|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D.py)|[바로가기](https://www.acmicpc.net/problem/1918)|
 
 
-**Update Date 2023/11/03 00:35:31 KST**
+**Update Date 2023/11/03 18:29:09 KST**
