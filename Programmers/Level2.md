@@ -11,7 +11,7 @@
 |004|월간 코드 챌린지 시즌2|Python|2개 이하로 다른 비트|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/77885)|
 |005|2018 KAKAO BLIND RECRUITMENT|Python|3차 방금그곡|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/3%EC%B0%A8%20%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/17683)|
 |006|정렬|Python|H-Index|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/H-Index.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42747)|
-|007|[PCCP 기출문제] 2번|Python|[PCCP 기출문제] 2번 석유 시추|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%5BPCCP%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C%5D%202%EB%B2%88%20%EC%84%9D%EC%9C%A0%20%EC%8B%9C%EC%B6%94.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/250136)|
+|007|PCCP 기출문제|Python|[PCCP 기출문제] 2번 석유 시추|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%5BPCCP%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C%5D%202%EB%B2%88%20%EC%84%9D%EC%9C%A0%20%EC%8B%9C%EC%B6%94.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/250136)|
 |008|월간 코드 챌린지 시즌3|Python|n^2 배열 자르기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/87390)|
 |009|정렬|Python|가장 큰 수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42746)|
 |010|연습문제|Python|가장 큰 정사각형 찾기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/12905)|
@@ -66,4 +66,4 @@
 |059|2019 KAKAO BLIND RECRUITMENT|Python|후보키|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%ED%9B%84%EB%B3%B4%ED%82%A4.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42890)|
 
 
-**Update Date 2024/01/02 14:58:01 KST**
+**Update Date 2024/01/04 02:59:38 KST**
