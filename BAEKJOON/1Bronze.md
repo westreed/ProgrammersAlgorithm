@@ -30,4 +30,4 @@
 |023|구현, 다이나믹 프로그래밍, 문자열|Python|핸드폰 번호 궁합|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B6%81%ED%95%A9.py)|[바로가기](https://www.acmicpc.net/problem/17202)|
 
 
-**Update Date 2024/01/04 17:34:41 KST**
+**Update Date 2024/01/07 22:22:00 KST**
