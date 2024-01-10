@@ -90,7 +90,7 @@
 |083|자료구조, 큐|Python|큐|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%81%90.py)|[바로가기](https://www.acmicpc.net/problem/10845)|
 |084|수학, 다이나믹 프로그래밍|Python|타일 장식물|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%83%80%EC%9D%BC%20%EC%9E%A5%EC%8B%9D%EB%AC%BC.py)|[바로가기](https://www.acmicpc.net/problem/13301)|
 |085|수학, 구현, 정렬|Python|통계학|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%86%B5%EA%B3%84%ED%95%99.py)|[바로가기](https://www.acmicpc.net/problem/2108)|
-|086||Python|트리 순회|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C.py)|[바로가기](https://www.acmicpc.net/problem/1991)|
+|086|트리, 재귀|Python|트리 순회|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C.py)|[바로가기](https://www.acmicpc.net/problem/1991)|
 |087|수학, 다이나믹 프로그래밍|Python|파도반 수열|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4.py)|[바로가기](https://www.acmicpc.net/problem/9461)|
 |088||Python|패션왕 신해빈|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8C%A8%EC%85%98%EC%99%95%20%EC%8B%A0%ED%95%B4%EB%B9%88.py)|[바로가기](https://www.acmicpc.net/problem/9375)|
 |089|수학, 임의 정밀도 / 큰 수 연산|Python|팩토리얼 0의 개수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1676)|
@@ -100,4 +100,4 @@
 |093|그리디 알고리즘, 정렬|Python|회의실 배정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
 
 
-**Update Date 2024/01/09 21:38:42 KST**
+**Update Date 2024/01/10 16:38:31 KST**
