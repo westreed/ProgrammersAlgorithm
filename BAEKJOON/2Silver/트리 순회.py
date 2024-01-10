@@ -1,4 +1,4 @@
-# 
+# 트리, 재귀
 # https://www.acmicpc.net/problem/1991
 
 def preorder(start, graph):
