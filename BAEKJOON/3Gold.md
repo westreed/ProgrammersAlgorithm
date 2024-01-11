@@ -25,15 +25,16 @@
 |018|브루트포스 알고리즘|Python|제곱수 찾기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EC%A0%9C%EA%B3%B1%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1025)|
 |019|그래프 이론, 데이크스트라, 최단 경로|Python|최단경로|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|[바로가기](https://www.acmicpc.net/problem/1753)|
 |020|그래프 이론, 데이크스트라, 최단 경로|Python|최소비용 구하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/1916)|
-|021|구현, 브루트포스 알고리즘|Python|테트로미노|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.py)|[바로가기](https://www.acmicpc.net/problem/14500)|
-|022|그래프 이론, 그래프 탐색, 너비 우선 탐색|Python|토마토|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%86%A0%EB%A7%88%ED%86%A0.py)|[바로가기](https://www.acmicpc.net/problem/7576)|
-|023|그래프 이론, 그래프 탐색, 너비 우선 탐색|Python|토마토2|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%86%A0%EB%A7%88%ED%86%A02.py)|[바로가기](https://www.acmicpc.net/problem/7569)|
-|024|그래프 이론, 그래프 탐색, 트리, 깊이 우선 탐색|Python|트리의 지름(4)|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84%284%29.py)|[바로가기](https://www.acmicpc.net/problem/1967)|
-|025|그래프 이론, 그래프 탐색, 트리, 깊이 우선 탐색|Python|트리의 지름|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84.py)|[바로가기](https://www.acmicpc.net/problem/1167)|
-|026|그래프 이론, 데이크스트라, 최단 경로|Python|특정한 최단 경로|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.py)|[바로가기](https://www.acmicpc.net/problem/1504)|
-|027|그래프 이론, 데이크스트라, 최단 경로|Python|파티|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%8C%8C%ED%8B%B0.py)|[바로가기](https://www.acmicpc.net/problem/1238)|
-|028|다이나믹 프로그래밍, 배낭 문제|Python|호텔|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%98%B8%ED%85%94.py)|[바로가기](https://www.acmicpc.net/problem/1106)|
-|029|자료 구조, 스택|Python|후위 표기식|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D.py)|[바로가기](https://www.acmicpc.net/problem/1918)|
+|021|구현, 그래프 이론, 그래프 탐색, 시뮬레이션, 너비 우선 탐색, 깊이 우선 탐색|Python|치즈|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EC%B9%98%EC%A6%88.py)|[바로가기](https://www.acmicpc.net/problem/2638)|
+|022|구현, 브루트포스 알고리즘|Python|테트로미노|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.py)|[바로가기](https://www.acmicpc.net/problem/14500)|
+|023|그래프 이론, 그래프 탐색, 너비 우선 탐색|Python|토마토|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%86%A0%EB%A7%88%ED%86%A0.py)|[바로가기](https://www.acmicpc.net/problem/7576)|
+|024|그래프 이론, 그래프 탐색, 너비 우선 탐색|Python|토마토2|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%86%A0%EB%A7%88%ED%86%A02.py)|[바로가기](https://www.acmicpc.net/problem/7569)|
+|025|그래프 이론, 그래프 탐색, 트리, 깊이 우선 탐색|Python|트리의 지름(4)|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84%284%29.py)|[바로가기](https://www.acmicpc.net/problem/1967)|
+|026|그래프 이론, 그래프 탐색, 트리, 깊이 우선 탐색|Python|트리의 지름|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84.py)|[바로가기](https://www.acmicpc.net/problem/1167)|
+|027|그래프 이론, 데이크스트라, 최단 경로|Python|특정한 최단 경로|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.py)|[바로가기](https://www.acmicpc.net/problem/1504)|
+|028|그래프 이론, 데이크스트라, 최단 경로|Python|파티|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%8C%8C%ED%8B%B0.py)|[바로가기](https://www.acmicpc.net/problem/1238)|
+|029|다이나믹 프로그래밍, 배낭 문제|Python|호텔|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%98%B8%ED%85%94.py)|[바로가기](https://www.acmicpc.net/problem/1106)|
+|030|자료 구조, 스택|Python|후위 표기식|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D.py)|[바로가기](https://www.acmicpc.net/problem/1918)|
 
 
-**Update Date 2024/01/11 16:27:00 KST**
+**Update Date 2024/01/11 22:03:16 KST**
