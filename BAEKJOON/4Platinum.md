@@ -7,4 +7,4 @@
 |000||Python|LCA 2|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/4Platinum/LCA%202%20X.py)|[바로가기](https://www.acmicpc.net/problem/11438)|
 
 
-**Update Date 2024/01/11 22:03:16 KST**
+**Update Date 2024/01/12 01:42:48 KST**
