@@ -1,6 +1,13 @@
 # 연습문제
 # https://school.programmers.co.kr/learn/courses/30/lessons/169199
 
+# 풀이포인트
+"""
+visit를 x,y 위치로만 기록하면 다른 방향으로 갈 수 있는 경우의 수를 계산하지 못함.
+visit의 x,y 위치를 기준으로 4 방향으로 전부 따로 방문을 기록해야 하고, 메모리를
+아끼기 위해 비트계산으로 방향에 따른 방문 여부를 체크함.
+"""
+
 def find_point_pos(board,N,M):
     start, goal = None, None
     for n in range(N):
@@ -17,7 +24,6 @@ def bfs(board,N,M,start,goal):
     from collections import deque
 
     visit = [[0] * M for _ in range(N)]
-    print(visit)
     queue = deque()
     queue.append((start, -1, 0))
     # U1 D2 L4 R8
@@ -28,10 +34,6 @@ def bfs(board,N,M,start,goal):
         pos, d, cnt = queue.popleft()
 
         if pos == goal:
-            for b in board:
-                print(b)
-            for v in visit:
-                print(v)
             return cnt
         
         for _d, dx, dy in arrow:
