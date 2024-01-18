@@ -64,4 +64,4 @@ Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions
 |Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3.md)|59|60|98%|
 
 
-**Update Date 2024/01/18 18:50:19 KST**
+**Update Date 2024/01/18 22:30:28 KST**
