@@ -1,4 +1,4 @@
-# 
+# 브루트포스 알고리즘, 백트래킹
 # https://www.acmicpc.net/problem/9663
 
 answer = 0
