@@ -7,7 +7,7 @@
 |000|구현, 자료 구조, 문자열, 파싱, 덱|Python|AC|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/AC.py)|[바로가기](https://www.acmicpc.net/problem/5430)|
 |001|그래프 이론, 그래프 탐색, 너비 우선 탐색|Python|DSLR|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/DSLR.py)|[바로가기](https://www.acmicpc.net/problem/9019)|
 |002|다이나믹 프로그래밍, 문자열|Python|LCS|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/LCS.py)|[바로가기](https://www.acmicpc.net/problem/9251)|
-|003||Python|N-Queen|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/N-Queen.py)|[바로가기](https://www.acmicpc.net/problem/9663)|
+|003|브루트포스 알고리즘, 백트래킹|Python|N-Queen|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/N-Queen.py)|[바로가기](https://www.acmicpc.net/problem/9663)|
 |004||Python|가운데를 말해요|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A5%BC%20%EB%A7%90%ED%95%B4%EC%9A%94%20X.py)|[바로가기](https://www.acmicpc.net/problem/1655)|
 |005|자료 구조, 그래프 이론, 그래프 탐색, 분리 집합|Python|거짓말|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EA%B1%B0%EC%A7%93%EB%A7%90.py)|[바로가기](https://www.acmicpc.net/problem/1043)|
 |006|수학, 누적 합|Python|나머지 합|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EB%82%98%EB%A8%B8%EC%A7%80%20%ED%95%A9.py)|[바로가기](https://www.acmicpc.net/problem/10986)|
@@ -40,4 +40,4 @@
 |033|자료 구조, 스택|Python|후위 표기식|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D.py)|[바로가기](https://www.acmicpc.net/problem/1918)|
 
 
-**Update Date 2024/01/24 15:01:17 KST**
+**Update Date 2024/01/24 15:01:42 KST**
