@@ -37,8 +37,9 @@
 |030|그래프 이론, 데이크스트라, 최단 경로|Python|특정한 최단 경로|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.py)|[바로가기](https://www.acmicpc.net/problem/1504)|
 |031|그래프 이론, 데이크스트라, 최단 경로|Python|파티|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%8C%8C%ED%8B%B0.py)|[바로가기](https://www.acmicpc.net/problem/1238)|
 |032|그래프 이론, 최단 경로, 플로이드-워셜|Python|플로이드|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.py)|[바로가기](https://www.acmicpc.net/problem/11404)|
-|033|다이나믹 프로그래밍, 배낭 문제|Python|호텔|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%98%B8%ED%85%94.py)|[바로가기](https://www.acmicpc.net/problem/1106)|
-|034|자료 구조, 스택|Python|후위 표기식|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D.py)|[바로가기](https://www.acmicpc.net/problem/1918)|
+|033|수학, 분할 정복을 이용한 거듭 제곱|Python|피보나치 수 6|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%206.py)|[바로가기](https://www.acmicpc.net/problem/11444)|
+|034|다이나믹 프로그래밍, 배낭 문제|Python|호텔|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%98%B8%ED%85%94.py)|[바로가기](https://www.acmicpc.net/problem/1106)|
+|035|자료 구조, 스택|Python|후위 표기식|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D.py)|[바로가기](https://www.acmicpc.net/problem/1918)|
 
 
-**Update Date 2024/01/24 15:34:08 KST**
+**Update Date 2024/01/24 16:31:15 KST**
