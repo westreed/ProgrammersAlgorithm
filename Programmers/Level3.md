@@ -30,6 +30,7 @@
 |023|2021 카카오 채용연계형 인턴십|Python|표 편집|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%ED%91%9C%20%ED%8E%B8%EC%A7%91.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/81303)|
 |024|2023 KAKAO BLIND RECRUITMENT|Python|표현 가능한 이진트리|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%ED%91%9C%ED%98%84%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/150367)|
 |025|연습문제|Python|하노이의 탑|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/12946)|
+|026|2021 KAKAO BLIND RECRUITMENT|Python|합승 택시 요금|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3/%ED%95%A9%EC%8A%B9%20%ED%83%9D%EC%8B%9C%20%EC%9A%94%EA%B8%88.py)|[바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|
 
 
-**Update Date 2024/01/24 17:34:31 KST**
+**Update Date 2024/01/29 22:12:02 KST**

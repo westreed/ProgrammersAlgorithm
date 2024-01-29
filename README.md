@@ -40,7 +40,7 @@ Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions
 | 문제 난이도 | 문제 링크 | 해결한 문제 | 전체 문제 | 해결비율(%) |
 | :--: |:--: |:--: |:--: |:--: |
 |1Bronze|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze.md)|24|24|100%|
-|2Silver|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|96|96|100%|
+|2Silver|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|96|97|99%|
 |3Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|34|36|94%|
 |4Platinum|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/4Platinum.md)|00|01|0%|
 
@@ -51,7 +51,7 @@ Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions
 | :--: |:--: |:--: |:--: |:--: |
 |Level1|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level1.md)|57|57|100%|
 |Level2|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2.md)|58|62|94%|
-|Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3.md)|24|26|92%|
+|Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level3.md)|25|27|93%|
 |Level4|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level4.md)|01|02|50%|
 
 ## SAMSUNG SW Expert Academy
@@ -64,4 +64,4 @@ Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions
 |Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3.md)|59|60|98%|
 
 
-**Update Date 2024/01/24 17:34:31 KST**
+**Update Date 2024/01/29 22:12:02 KST**
