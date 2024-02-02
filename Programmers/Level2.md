@@ -68,4 +68,4 @@
 |061|2019 KAKAO BLIND RECRUITMENT|Python|후보키|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/Programmers/Level2/%ED%9B%84%EB%B3%B4%ED%82%A4.py)|[바로가기](https://programmers.co.kr/learn/courses/30/lessons/42890)|
 
 
-**Update Date 2024/01/29 22:12:02 KST**
+**Update Date 2024/02/02 21:13:28 KST**
