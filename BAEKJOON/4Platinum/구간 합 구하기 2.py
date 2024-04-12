@@ -1,4 +1,4 @@
-# 
+# 자료구조, 세그먼트 트리, 느리게 갱신되는 세그먼트 트리
 # https://www.acmicpc.net/problem/10999
 
 """
