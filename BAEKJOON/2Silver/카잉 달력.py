@@ -1,4 +1,4 @@
-# 
+# 수학, 브루트포스 알고리즘, 정수론, 중국인의 나머지 정리
 # https://www.acmicpc.net/problem/6064
 
 # 입력

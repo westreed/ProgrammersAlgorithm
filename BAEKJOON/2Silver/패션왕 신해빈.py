@@ -1,4 +1,4 @@
-# 
+# 수학, 자료 구조, 조합론, 해시를 사용한 집합과 맵
 # https://www.acmicpc.net/problem/9375
 
 from collections import defaultdict
