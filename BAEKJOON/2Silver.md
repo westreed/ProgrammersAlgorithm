@@ -67,7 +67,7 @@
 |060|그래프 이론, 그래프 탐색, 너비 우선 탐색|Python|쉬운 최단거리|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%89%AC%EC%9A%B4%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py)|[바로가기](https://www.acmicpc.net/problem/14940)|
 |061|자료구조, 스택|Python|스택 수열|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4.py)|[바로가기](https://www.acmicpc.net/problem/1874)|
 |062|자료구조, 스택|Python|스택|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%8A%A4%ED%83%9D.py)|[바로가기](https://www.acmicpc.net/problem/10828)|
-|063||Python|스티커|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%8A%A4%ED%8B%B0%EC%BB%A4%20X.py)|[바로가기](https://www.acmicpc.net/problem/9465)|
+|063|다이나믹 프로그래밍|Python|스티커|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%8A%A4%ED%8B%B0%EC%BB%A4.py)|[바로가기](https://www.acmicpc.net/problem/9465)|
 |064|수학, 애드 혹, 해 구성하기|Python|아무래도이문제는A번난이도인것같다|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%95%84%EB%AC%B4%EB%9E%98%EB%8F%84%EC%9D%B4%EB%AC%B8%EC%A0%9C%EB%8A%94A%EB%B2%88%EB%82%9C%EC%9D%B4%EB%8F%84%EC%9D%B8%EA%B2%83%EA%B0%99%EB%8B%A4.py)|[바로가기](https://www.acmicpc.net/problem/1402)|
 |065|그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색|Python|연결 요소의 개수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%97%B0%EA%B2%B0%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/11724)|
 |066|브루트포스 알고리즘|Python|영화감독 숌|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C.py)|[바로가기](https://www.acmicpc.net/problem/1436)|
@@ -107,4 +107,4 @@
 |100|그리디 알고리즘, 정렬|Python|회의실 배정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
 
 
-**Update Date 2024/04/11 16:16:19 KST**
+**Update Date 2024/04/12 18:38:10 KST**

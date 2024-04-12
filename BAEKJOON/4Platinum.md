@@ -8,4 +8,4 @@
 |001||Python|구간 합 구하기 2|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/4Platinum/%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%202.py)|[바로가기](https://www.acmicpc.net/problem/10999)|
 
 
-**Update Date 2024/04/11 16:16:19 KST**
+**Update Date 2024/04/12 18:38:10 KST**
