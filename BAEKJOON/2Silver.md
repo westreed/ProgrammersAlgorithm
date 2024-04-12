@@ -22,7 +22,7 @@
 |015|브루트포스 알고리즘, 비둘기집 원리|Python|가장 가까운 세 사람의 심리적 거리|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EC%84%B8%20%EC%82%AC%EB%9E%8C%EC%9D%98%20%EC%8B%AC%EB%A6%AC%EC%A0%81%20%EA%B1%B0%EB%A6%AC.py)|[바로가기](https://www.acmicpc.net/problem/20529)|
 |016|다이나믹 프로그래밍|Python|가장 긴 증가하는 부분 수열|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.py)|[바로가기](https://www.acmicpc.net/problem/11053)|
 |017|수학, 다이나믹 프로그래밍, 정수론|Python|걷다보니 신천역 삼(Large)|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EA%B1%B7%EB%8B%A4%EB%B3%B4%EB%8B%88%20%EC%8B%A0%EC%B2%9C%EC%97%AD%20%EC%82%BC%28Large%29.py)|[바로가기](https://www.acmicpc.net/problem/14651)|
-|018||Python|경로 찾기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/11403)|
+|018|그래프 이론, 그래프 탐색, 최단 경로, 플로이드-워셜|Python|경로 찾기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/11403)|
 |019|다이나믹 프로그래밍|Python|계단 오르기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/2579)|
 |020|수학, 분할 정복을 이용한 거듭제곱|Python|곱셈|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EA%B3%B1%EC%85%88.py)|[바로가기](https://www.acmicpc.net/problem/1629)|
 |021|자료 구조, 문자열, 스택|Python|괄호|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EA%B4%84%ED%98%B8.py)|[바로가기](https://www.acmicpc.net/problem/9012)|
@@ -90,7 +90,7 @@
 |083|자료 구조, 우선순위 큐|Python|최소 힙|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B5%9C%EC%86%8C%20%ED%9E%99.py)|[바로가기](https://www.acmicpc.net/problem/1927)|
 |084|그래프 이론, 브루트포스 알고리즘, 그래프 탐색, 플로이드-워셜|Python|친구|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B9%9C%EA%B5%AC.py)|[바로가기](https://www.acmicpc.net/problem/1058)|
 |085|자료구조, 큐|Python|카드2|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B9%B4%EB%93%9C2.py)|[바로가기](https://www.acmicpc.net/problem/2164)|
-|086||Python|카잉 달력|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B9%B4%EC%9E%89%20%EB%8B%AC%EB%A0%A5.py)|[바로가기](https://www.acmicpc.net/problem/6064)|
+|086|수학, 브루트포스 알고리즘, 정수론, 중국인의 나머지 정리|Python|카잉 달력|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%B9%B4%EC%9E%89%20%EB%8B%AC%EB%A0%A5.py)|[바로가기](https://www.acmicpc.net/problem/6064)|
 |087|BFS, 플로이드–와샬|Python|케빈 베이컨의 6단계 법칙|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84%20%EB%B2%95%EC%B9%99.py)|[바로가기](https://www.acmicpc.net/problem/1389)|
 |088|분할 정복, 재귀|Python|쿼드트리|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.py)|[바로가기](https://www.acmicpc.net/problem/1992)|
 |089|자료구조, 큐|Python|큐|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%81%90.py)|[바로가기](https://www.acmicpc.net/problem/10845)|
@@ -99,7 +99,7 @@
 |092|트리, 재귀|Python|트리 순회|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C.py)|[바로가기](https://www.acmicpc.net/problem/1991)|
 |093|그래프 이론, 그래프 탐색, 트리, 너비 우선 탐색, 깊이 우선 탐색|Python|트리의 부모 찾기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/11725)|
 |094|수학, 다이나믹 프로그래밍|Python|파도반 수열|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4.py)|[바로가기](https://www.acmicpc.net/problem/9461)|
-|095||Python|패션왕 신해빈|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8C%A8%EC%85%98%EC%99%95%20%EC%8B%A0%ED%95%B4%EB%B9%88.py)|[바로가기](https://www.acmicpc.net/problem/9375)|
+|095|수학, 자료 구조, 조합론, 해시를 사용한 집합과 맵|Python|패션왕 신해빈|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8C%A8%EC%85%98%EC%99%95%20%EC%8B%A0%ED%95%B4%EB%B9%88.py)|[바로가기](https://www.acmicpc.net/problem/9375)|
 |096|수학, 임의 정밀도 / 큰 수 연산|Python|팩토리얼 0의 개수|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|[바로가기](https://www.acmicpc.net/problem/1676)|
 |097|구현, 자료구조, 시뮬레이션, 큐|Python|프린터 큐|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.py)|[바로가기](https://www.acmicpc.net/problem/1966)|
 |098|그래프 이론, 브루트포스 알고리즘, 그래프 탐색|Python|한동이는 공부가 하기 싫어!|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%95%9C%EB%8F%99%EC%9D%B4%EB%8A%94%20%EA%B3%B5%EB%B6%80%EA%B0%80%20%ED%95%98%EA%B8%B0%20%EC%8B%AB%EC%96%B4%21.py)|[바로가기](https://www.acmicpc.net/problem/3182)|
@@ -107,4 +107,4 @@
 |100|그리디 알고리즘, 정렬|Python|회의실 배정|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)|[바로가기](https://www.acmicpc.net/problem/1931)|
 
 
-**Update Date 2024/04/12 18:39:22 KST**
+**Update Date 2024/04/12 18:43:22 KST**
