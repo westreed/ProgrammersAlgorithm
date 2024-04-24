@@ -5,6 +5,7 @@
 
 ！혹은 아래의 레포지토리 링크로 이동하여 사용하시면 됩니다.<br>
 바로가기 → [ProgrammersAlgorithmDeploy](https://github.com/westreed/ProgrammersAlgorithmDeploy)
+
 ## 사용방법
 
 1. `scripts/data.py` 안의 `folder_List` 내용을 (폴더이름, 사이트이름) 순으로 입력해주세요.
@@ -18,7 +19,7 @@
 
 1. Permission 오류
 
-```
+```bash
 [main 73adc1d] update README.md
  2 files changed, 2 insertions(+), 2 deletions(-)
 remote: Permission to westreed/ProgrammersAlgorithmDeploy.git denied to github-actions[bot].
@@ -30,4 +31,3 @@ Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions
 아래 이미지와 같이 설정하세요.
 
 ![Setting](https://github.com/westreed/ProgrammersAlgorithm/blob/main/src/Settings.png)
-
