@@ -6,6 +6,10 @@ name: Python application
 on:
   push:
     branches: [ main ]
+    paths:
+      - 'BAELJOON/**'
+      - 'Programmers/**'
+      - 'SAMSUNG_SW_Expert_Academy/**'
   pull_request:
     branches: [ main ]
 
