@@ -3,3 +3,6 @@ __pycache__/
 
 # temp 디렉토리에 있는 모든 파일을 무시
 temp/
+
+# 비공개 코딩테스트 시험자료
+CodingTest/
