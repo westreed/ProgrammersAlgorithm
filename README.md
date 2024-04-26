@@ -5,6 +5,7 @@
 
 ！혹은 아래의 레포지토리 링크로 이동하여 사용하시면 됩니다.<br>
 바로가기 → [ProgrammersAlgorithmDeploy](https://github.com/westreed/ProgrammersAlgorithmDeploy)
+
 ## 사용방법
 
 1. `scripts/data.py` 안의 `folder_List` 내용을 (폴더이름, 사이트이름) 순으로 입력해주세요.
@@ -18,7 +19,7 @@
 
 1. Permission 오류
 
-```
+```bash
 [main 73adc1d] update README.md
  2 files changed, 2 insertions(+), 2 deletions(-)
 remote: Permission to westreed/ProgrammersAlgorithmDeploy.git denied to github-actions[bot].
@@ -33,7 +34,6 @@ Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions
 
 
 
-
 ## BAEKJOON
 
 
@@ -41,7 +41,7 @@ Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions
 | :--: |:--: |:--: |:--: |:--: |
 |1Bronze|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/1Bronze.md)|24|24|100%|
 |2Silver|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/2Silver.md)|102|102|100%|
-|3Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|41|43|95%|
+|3Gold|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold.md)|42|44|95%|
 |4Platinum|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/4Platinum.md)|01|02|50%|
 
 ## 프로그래머스
@@ -64,4 +64,4 @@ Action에서 다음과 비슷한 오류가 발생했을 때, [Settings]-[Actions
 |Level3|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level3.md)|59|60|98%|
 
 
-**Update Date 2024/04/24 22:02:01 KST**
+**Update Date 2024/04/26 16:47:38 KST**

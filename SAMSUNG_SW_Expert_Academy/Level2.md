@@ -12,4 +12,4 @@
 |005|2007|Python|패턴 마디의 길이|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/SAMSUNG_SW_Expert_Academy/Level2/%ED%8C%A8%ED%84%B4%20%EB%A7%88%EB%94%94%EC%9D%98%20%EA%B8%B8%EC%9D%B4.py)|
 
 
-**Update Date 2024/04/24 22:02:01 KST**
+**Update Date 2024/04/26 16:47:38 KST**
