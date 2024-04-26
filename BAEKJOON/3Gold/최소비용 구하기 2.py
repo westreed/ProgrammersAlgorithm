@@ -21,7 +21,6 @@ def dijkstra(N, graph, start):
             dist[_node] = next_cost
             visit[_node] = visit[node] + [_node]
             heapq.heappush(heap, (next_cost, _node))
-    
     return dist, visit
 
 if __name__ == "__main__":
