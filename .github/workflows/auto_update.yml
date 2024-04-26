@@ -7,7 +7,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'BAELJOON/**'
+      - 'BAEKJOON/**'
       - 'Programmers/**'
       - 'SAMSUNG_SW_Expert_Academy/**'
   pull_request:
