@@ -9,10 +9,18 @@ def find(str1, str2):
 
     for i in range(1, len1+1):
         for j in range(1, len2+1):
-            if str1[i-1] == str2[j-1]: table[i][j] = table[i-1][j-1]+1
-            if max_comp < table[i][j]:
-                max_comp = table[i][j]
-                last_idx = i
+            if str1[i-1] == str2[j-1]:
+                table[i][j] = table[i-1][j-1]+1
+
+                if max_comp < table[i][j]:
+                    max_comp = table[i][j]
+                    last_idx = i
+    
+    # print(table)
+    print(f"    {' '.join(list(str2))}")
+    for i, t in enumerate(table):
+        print(str1[i-1] if i > 0 else " ", end=" ")
+        print(*t)
     
     ans = ""
     while max_comp:
@@ -23,7 +31,7 @@ def find(str1, str2):
     print(ans)
 
 if __name__ == "__main__":
-    str1 = "BCBBBC"
-    str2 = "CBBBCC"
+    str1 = "BCBBBCADDDAA"
+    str2 = "CBBBCCCADDDAA"
 
     find(str1, str2)
