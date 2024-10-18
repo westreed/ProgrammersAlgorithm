@@ -1,4 +1,4 @@
-# 
+# 그래프 이론, 최단 경로, 데이크스트라
 # https://www.acmicpc.net/problem/24042
 
 """
