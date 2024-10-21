@@ -8,4 +8,4 @@
 |001|자료구조, 세그먼트 트리, 느리게 갱신되는 세그먼트 트리|Python|구간 합 구하기 2|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/4Platinum/%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%202.py)|[바로가기](https://www.acmicpc.net/problem/10999)|
 
 
-**Update Date 2024/10/21 23:48:49 KST**
+**Update Date 2024/10/21 23:51:12 KST**

@@ -11,7 +11,7 @@
 |004|수학, 정수론, 분할 정복을 이용한 거듭제곱, 모듈로 곱셈 역원, 페르마의 소정리|Python|Σ|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%CE%A3.py)|[바로가기](https://www.acmicpc.net/problem/13172)|
 |005||Python|가운데를 말해요|**풀이안됨**|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A5%BC%20%EB%A7%90%ED%95%B4%EC%9A%94%20X.py)|[바로가기](https://www.acmicpc.net/problem/1655)|
 |006|다이나믹 프로그래밍|Python|가장 긴 바이토닉 부분 수열|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.py)|[바로가기](https://www.acmicpc.net/problem/11054)|
-|007||Python|감시|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EA%B0%90%EC%8B%9C.py)|[바로가기](https://www.acmicpc.net/problem/15683)|
+|007|구현, 브루트포스 알고리즘, 시뮬레이션, 백트래킹|Python|감시|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EA%B0%90%EC%8B%9C.py)|[바로가기](https://www.acmicpc.net/problem/15683)|
 |008|자료 구조, 그래프 이론, 그래프 탐색, 분리 집합|Python|거짓말|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EA%B1%B0%EC%A7%93%EB%A7%90.py)|[바로가기](https://www.acmicpc.net/problem/1043)|
 |009|그래프 이론, 이분 탐색, 최단 경로, 데이크스트라, 매개 변수 탐색|Python|골목 대장 호석|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EA%B3%A8%EB%AA%A9%20%EB%8C%80%EC%9E%A5%20%ED%98%B8%EC%84%9D.py)|[바로가기](https://www.acmicpc.net/problem/20183)|
 |010|자료 구조, 세그먼트 트리|Python|구간 합 구하기|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|[바로가기](https://www.acmicpc.net/problem/2042)|
@@ -62,4 +62,4 @@
 |055|자료 구조, 스택|Python|후위 표기식|풀이완료|[바로가기](https://github.com/westreed/ProgrammersAlgorithm/blob/main/BAEKJOON/3Gold/%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D.py)|[바로가기](https://www.acmicpc.net/problem/1918)|
 
 
-**Update Date 2024/10/21 23:48:49 KST**
+**Update Date 2024/10/21 23:51:12 KST**
