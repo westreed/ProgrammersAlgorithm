@@ -1,4 +1,4 @@
-# 
+# 다이나믹 프로그래밍, 자료 구조, 그래프 이론, 그래프 탐색, 깊이 우선 탐색, 해시를 사용한 집합과 맵
 # https://www.acmicpc.net/problem/20166
 
 import sys
