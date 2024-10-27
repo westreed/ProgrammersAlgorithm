@@ -1,4 +1,4 @@
-# 
+# 자료 구조, 정렬, 우선순위 큐, 투 포인터
 # https://www.acmicpc.net/problem/2461
 
 import sys
