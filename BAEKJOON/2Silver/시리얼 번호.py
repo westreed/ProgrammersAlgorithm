@@ -1,4 +1,4 @@
-# 
+# 정렬
 # https://www.acmicpc.net/problem/1431
 
 """
@@ -27,3 +27,4 @@ for _ in range(N):
 
 lists.sort()
 print("\n".join(list(map(lambda x: x[2], lists))))
+
